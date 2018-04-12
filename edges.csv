@@ -1,0 +1,3133 @@
+Source,Target,Weight
+McGonagall,Voldemort,224
+McGonagall,Harry,73901
+McGonagall,Hagrid,495
+McGonagall,Hermione,8050
+McGonagall,Granger,14
+McGonagall,Petunia,6
+McGonagall,Slytherin,54
+McGonagall,Ron,1132
+McGonagall,Blaise,6
+McGonagall,Percy,180
+McGonagall,Quirrell,26
+McGonagall,Crabbe,16
+McGonagall,Goyle,24
+McGonagall,Peeves,102
+McGonagall,Charlie,10
+McGonagall,Gryffindor,20
+McGonagall,Flitwick,103
+McGonagall,Lee Jordan,7
+McGonagall,Weasley,372
+McGonagall,Draco Malfoy,24
+McGonagall,Ginny,310
+McGonagall,Minerva,54
+McGonagall,Pomfrey,22
+McGonagall,Ernie,150
+McGonagall,Nearly Headless Nick,52
+McGonagall,Macmillan,5
+McGonagall,Gilderoy Lockhart,1
+McGonagall,Oliver Wood,12
+McGonagall,Neville Longbottom,10
+McGonagall,Sprout,24
+McGonagall,Fawkes,27
+McGonagall,Lupin,462
+McGonagall,Poppy,3
+McGonagall,Ravenclaw,24
+McGonagall,Trelawney,636
+McGonagall,Dean Thomas,8
+McGonagall,Vernon,4
+McGonagall,Sir Cadogan,4
+McGonagall,Cornelius Fudge,50
+McGonagall,James,70
+McGonagall,Sirius Black,65
+McGonagall,Marcus Flint,3
+McGonagall,Buckbeak,3
+McGonagall,Peter Pettigrew,8
+McGonagall,Colin Creevey,6
+McGonagall,Moody,813
+McGonagall,George,288
+McGonagall,Fred,178
+McGonagall,Ludo Bagman,18
+McGonagall,Karkaroff,190
+McGonagall,Maxime,6
+McGonagall,Crouch,61
+McGonagall,Parvati,68
+McGonagall,Binns,8
+McGonagall,Fleur Delacour,10
+McGonagall,Padma,48
+McGonagall,Roger Davies,10
+McGonagall,Cedric,39
+McGonagall,Dobby,19
+McGonagall,Albus Dumbledore,4
+McGonagall,Winky,92
+McGonagall,Rose,2
+McGonagall,Grubbly-Plank,40
+McGonagall,Angelina Johnson,4
+McGonagall,Sinistra,2
+McGonagall,Hedwig,228
+McGonagall,Hooch,6
+McGonagall,Blood,6
+McGonagall,Molly,12
+McGonagall,Kingsley Shacklebolt,7
+McGonagall,Marietta,420
+Voldemort,McGonagall,224
+Voldemort,Lily,5
+Voldemort,James,10
+Voldemort,Harry,2329
+Voldemort,Bane,94
+Voldemort,Firenze,84
+Voldemort,Fluffy,48
+Voldemort,Hermione,244
+Voldemort,Gryffindor,4
+Lily,Voldemort,4
+Lily,James,1657
+Lily,Harry,17970
+Lily,Hagrid,11
+Lily,Petunia,2062
+Lily,Sirius Black,16
+Lily,Minerva,2
+Lily,Remus,16
+Lily,Hermione,262
+Lily,Severus Snape,21
+Lily,Lucius,42
+Lily,Lord Voldemort,315
+James,Voldemort,9
+James,Lily,1657
+James,Harry,66641
+James,Hagrid,22
+James,Sirius Black,118
+James,Madam Rosmerta,112
+James,McGonagall,70
+James,Minerva,7
+James,Lupin,586
+James,Peter Pettigrew,25
+James,Shack,6
+James,Hermione,474
+James,Remus,264
+James,Weasley,18
+James,Flitwick,204
+James,Remus Lupin,102
+James,Arthur,20
+James,Petunia,7
+James,Lord Voldemort,180
+Harry,McGonagall,73900
+Harry,Voldemort,2329
+Harry,Hagrid,495
+Harry,Lily,17970
+Harry,James,66641
+Harry,Dudley,529855
+Harry,Petunia,180005
+Harry,Vernon,537503
+Harry,Figg,666
+Harry,Dennis,65
+Harry,Marge,87815
+Harry,Tom,141
+Harry,Dedalus Diggle,751
+Harry,Quirrell,100617
+Harry,Griphook,211590
+Harry,Madam Malkin,6440
+Harry,Ollivander,53225
+Harry,Hedwig,72888
+Harry,Fred,362504
+Harry,George,327531
+Harry,Ron,467185
+Harry,Albus Dumbledore,3599
+Harry,Scabbers,2459
+Harry,Neville,1575
+Harry,Hermione,10143866
+Harry,Crabbe,24513
+Harry,Goyle,50740
+Harry,Draco Malfoy,11535
+Harry,Granger,812
+Harry,Hannah,712
+Harry,Ravenclaw,10182
+Harry,Slytherin,8363
+Harry,Millicent,62
+Harry,Percy,109665
+Harry,Thomas,62
+Harry,Blaise,62
+Harry,Snape,6872
+Harry,Argus Filch,611
+Harry,Flitwick,15383
+Harry,Fang,51251
+Harry,Charlie,18118
+Harry,Gryffindor,5098
+Harry,Seamus Finnigan,1439
+Harry,Dean Thomas,1801
+Harry,Hooch,2075
+Harry,Blood,251
+Harry,Marcus Flint,1239
+Harry,Lee Jordan,3567
+Harry,Weasley,519555
+Harry,Fluffy,6816
+Harry,Norbert,3308
+Harry,Ronan,6448
+Harry,Bane,4268
+Harry,Firenze,38791
+Harry,Professor Dumbledore,114
+Harry,Peeves,7692
+Harry,Lord Voldemort,25675
+Harry,Dobby,539764
+Harry,Arthur,15953
+Harry,Ginny,581099
+Harry,Gilderoy Lockhart,3676
+Harry,Bill,132650
+Harry,Molly,5857
+Harry,Severus Snape,590
+Harry,Neville Longbottom,1615
+Harry,Errol,5509
+Harry,Sprout,10630
+Harry,Justin Finch-Fletchley,1035
+Harry,Know,140
+Harry,Colin Creevey,1868
+Harry,Oliver Wood,874
+Harry,Nearly Headless Nick,10452
+Harry,Myrtle,228
+Harry,Binns,5690
+Harry,Salazar Slytherin,1590
+Harry,Moaning Myrtle,4006
+Harry,Alicia Spinnet,582
+Harry,Pomfrey,2828
+Harry,Millicent Bulstrode,1287
+Harry,Ernie,9990
+Harry,Fawkes,53832
+Harry,Ernie Macmillan,4120
+Harry,Tom Riddle,3243
+Harry,Aragog,35275
+Harry,Thick,133
+Harry,Lucius,17967
+Harry,Bathilda Bagshot,516
+Harry,Stan Shunpike,2486
+Harry,Sirius Black,10631
+Harry,Cornelius Fudge,4428
+Harry,Florean Fortescue,261
+Harry,Crookshanks,19763
+Harry,Lupin,296001
+Harry,Trelawney,24592
+Harry,Parvati,46445
+Harry,Buckbeak,198105
+Harry,Sir Cadogan,2326
+Harry,Peter Pettigrew,831
+Harry,Cho Chang,2310
+Harry,Katie Bell,2471
+Harry,Penelope Clearwater,84
+Harry,Professor Trelawney,384
+Harry,Macnair,138
+Harry,Remus,1504
+Harry,Poppy,322
+Harry,Nagini,1152
+Harry,Pig,552
+Harry,Pigwidgeon,8214
+Harry,Amos,3182
+Harry,Cedric,484105
+Harry,Ludo Bagman,6420
+Harry,Barty,741
+Harry,Crouch,82780
+Harry,Viktor Krum,4447
+Harry,Winky,70431
+Harry,Auror,324
+Harry,Dennis Creevey,528
+Harry,Moody,409967
+Harry,Karkaroff,47678
+Harry,Great,325
+Harry,Bartemius,62
+Harry,Maxime,4098
+Harry,Fleur Delacour,6883
+Harry,Rita Skeeter,57574
+Harry,Madam Rosmerta,1454
+Harry,Bertha Jorkins,3139
+Harry,Trevor,2314
+Harry,Padma,13539
+Harry,Roger Davies,6643
+Harry,Pansy Parkinson,3656
+Harry,Sinistra,606
+Harry,Grubbly-Plank,4896
+Harry,Gabrielle,1682
+Harry,Love,94
+Harry,Godric Gryffindor,468
+Harry,Igor Karkaroff,113
+Harry,Minerva,1130
+Harry,Tonks,32328
+Harry,Kingsley Shacklebolt,2276
+Harry,Sturgis Podmore,527
+Harry,Emmeline Vance,96
+Harry,Who,76
+Harry,Kreacher,261342
+Harry,Andromeda,936
+Harry,Rodolphus,440
+Harry,Alastor,103
+Harry,Luna Lovegood,2886
+Harry,Rose,70
+Harry,Fat,235
+Harry,Angelina Johnson,411
+Harry,Hannah Abbott,435
+Harry,Anthony Goldstein,789
+Harry,Michael,945
+Harry,Zacharias,3165
+Harry,Marietta,16308
+Harry,Montague,5125
+Harry,Phineas Nigellus,7203
+Harry,Dawlish,389
+Harry,Remus Lupin,621
+Harry,Marietta Edgecombe,243
+Harry,Grawp,33251
+Harry,Gregory Goyle,320
+Harry,Magorian,128
+Harry,Bellatrix,54569
+Harry,Nott,338
+Harry,Antonin Dolohov,164
+Harry,Horace Slughorn,200
+Harry,Mundungus Fletcher,891
+Harry,Rubeus Hagrid,165
+Harry,Narcissa,4560
+Harry,Romilda Vane,1989
+Harry,Blaise Zabini,130
+Harry,Vincent Crabbe,130
+Harry,Bob Ogden,240
+Harry,Morfin,16310
+Harry,Merope,4235
+Harry,Marvolo,4173
+Harry,Cormac McLaggen,1270
+Harry,Demelza Robins,700
+Harry,Professor Snape,47
+Harry,Cole,705
+Harry,Muriel,33340
+Harry,Rufus Scrimgeour,595
+Harry,Sybill,192
+Harry,Fenrir Greyback,634
+Harry,Hokey,2880
+Harry,Hepzibah,11200
+Harry,Vector,117
+Harry,Amycus,2060
+Harry,Alecto,712
+Harry,Arabella Figg,95
+Harry,Yaxley,19771
+Harry,Grindelwald,288
+Harry,Uncle Vernon,1066
+Harry,Pius Thicknesse,100
+Harry,Ted Tonks,577
+Harry,Mad-Eye,2807
+Harry,Beedle,178
+Harry,Xenophilius,51093
+Harry,Elphias Doge,88
+Harry,Phineas Nigellus Black,192
+Harry,Aberforth,172
+Harry,Reg,249
+Harry,Mafalda Hopkirk,83
+Harry,Runcorn,4576
+Harry,Cattermole,83
+Harry,Albert,460
+Harry,Dirk Cresswell,294
+Harry,Gregorovitch,486
+Harry,Scabior,12864
+Harry,Nymphadora Tonks,68
+Harry,Travers,8190
+Harry,Bogrod,7371
+Harry,Terry,73
+Harry,Minerva McGonagall,124
+Harry,Filius,62
+Harry,Helena Ravenclaw,384
+Hagrid,McGonagall,494
+Hagrid,Harry,495
+Hagrid,Lily,11
+Hagrid,James,22
+Dudley,Harry,529854
+Dudley,Petunia,47424
+Dudley,Vernon,89296
+Dudley,Figg,306
+Dudley,Dennis,45
+Dudley,Marge,5909
+Dudley,Great,45
+Dudley,Hedwig,119
+Dudley,Ron,330
+Dudley,Draco Malfoy,2
+Dudley,Slytherin,3
+Dudley,Gryffindor,1
+Dudley,Hermione,2308
+Dudley,Dobby,171
+Dudley,Lord Voldemort,16
+Dudley,Fred,513
+Dudley,George,514
+Dudley,Weasley,592
+Dudley,Cedric,2323
+Dudley,Crouch,12
+Dudley,Tonks,40
+Dudley,Ginny,33
+Dudley,Montague,12
+Dudley,Cho Chang,2
+Dudley,Albus Dumbledore,27
+Dudley,Uncle Vernon,231
+Dudley,Grawp,33
+Dudley,Muriel,5
+Dudley,Scabior,16
+Petunia,Harry,180004
+Petunia,Dudley,47424
+Petunia,Vernon,90214
+Petunia,Figg,57
+Petunia,Marge,14716
+Petunia,Lily,2062
+Petunia,Hedwig,148
+Petunia,McGonagall,6
+Petunia,Dobby,570
+Petunia,Gilderoy Lockhart,7
+Petunia,Sprout,14
+Petunia,Percy,3
+Petunia,Weasley,661
+Petunia,Hermione,662
+Petunia,Errol,15
+Petunia,Fred,438
+Petunia,George,258
+Petunia,Rita Skeeter,21
+Petunia,Ollivander,3
+Petunia,Crouch,12
+Petunia,Lord Voldemort,164
+Petunia,Albus Dumbledore,59
+Petunia,Kreacher,72
+Petunia,Uncle Vernon,65
+Petunia,Bill,12
+Petunia,Mundungus Fletcher,3
+Petunia,James,7
+Vernon,Harry,537502
+Vernon,Dudley,89296
+Vernon,Petunia,90214
+Vernon,Figg,51
+Vernon,Marge,59390
+Vernon,Hedwig,596
+Vernon,Hermione,730
+Vernon,Dobby,630
+Vernon,Fred,603
+Vernon,George,579
+Vernon,Weasley,2103
+Vernon,Percy,19
+Vernon,Lupin,52
+Vernon,McGonagall,4
+Vernon,Dean Thomas,2
+Vernon,Crookshanks,5
+Vernon,Ludo Bagman,6
+Vernon,Barty,5
+Vernon,Crouch,16
+Vernon,Lord Voldemort,232
+Vernon,Albus Dumbledore,124
+Vernon,Grawp,21
+Vernon,Arthur,10
+Vernon,Moody,140
+Vernon,Bellatrix,22
+Vernon,Kreacher,264
+Figg,Harry,665
+Figg,Vernon,51
+Figg,Dudley,306
+Figg,Petunia,57
+Marge,Vernon,59389
+Marge,Harry,87815
+Marge,Petunia,14716
+Marge,Dudley,5909
+Marge,Sirius Black,8
+Marge,Weasley,5
+Dennis,Dudley,45
+Dennis,Harry,64
+Great,Dudley,44
+Great,Harry,325
+Great,Lee Jordan,3
+Great,Karkaroff,16
+Great,Maxime,1
+Great,Fred,26
+Great,George,22
+Great,Hermione,45
+Tom,Harry,140
+Dedalus Diggle,Harry,750
+Dedalus Diggle,Kingsley Shacklebolt,5
+Dedalus Diggle,Elphias Doge,1
+Dedalus Diggle,Moody,46
+Quirrell,Harry,100616
+Quirrell,Ollivander,24
+Quirrell,Albus Dumbledore,3
+Quirrell,McGonagall,26
+Quirrell,Percy,39
+Quirrell,Snape,12
+Quirrell,Slytherin,21
+Quirrell,Argus Filch,3
+Quirrell,Ron,57
+Quirrell,Seamus Finnigan,3
+Quirrell,Hermione,705
+Quirrell,Gryffindor,62
+Quirrell,Lord Voldemort,249
+Quirrell,Weasley,31
+Griphook,Harry,211589
+Griphook,Gornuk,144
+Griphook,Hermione,49619
+Griphook,Severus Snape,9
+Griphook,Bill,4054
+Griphook,Scabior,128
+Griphook,Ollivander,1308
+Griphook,Bellatrix,1143
+Griphook,Dobby,1243
+Griphook,Muriel,46
+Griphook,Travers,490
+Griphook,Bogrod,2520
+Madam Malkin,Harry,6439
+Madam Malkin,Hermione,1032
+Madam Malkin,Weasley,193
+Madam Malkin,Molly,32
+Madam Malkin,Ginny,128
+Madam Malkin,Bill,4
+Madam Malkin,Kingsley Shacklebolt,1
+Madam Malkin,Remus Lupin,2
+Madam Malkin,Fred,1
+Madam Malkin,George,1
+Madam Malkin,Arabella Figg,1
+Ollivander,Harry,53224
+Ollivander,Quirrell,24
+Ollivander,Fleur Delacour,6
+Ollivander,Cedric,48
+Ollivander,Viktor Krum,3
+Ollivander,Rita Skeeter,63
+Ollivander,Petunia,3
+Ollivander,Weasley,44
+Ollivander,Lord Voldemort,1
+Ollivander,Hermione,2867
+Ollivander,Mad-Eye,1
+Ollivander,Narcissa,40
+Ollivander,Lucius,49
+Ollivander,Griphook,1308
+Ollivander,Dobby,104
+Ollivander,Muriel,88
+Ollivander,Bill,544
+Ollivander,George,8
+Ollivander,Ginny,4
+Ollivander,Fred,4
+Ollivander,Draco Malfoy,2
+Ollivander,Bellatrix,14
+Hedwig,Petunia,148
+Hedwig,Harry,72887
+Hedwig,Dudley,119
+Hedwig,Vernon,596
+Hedwig,Ron,38
+Hedwig,Charlie,11
+Hedwig,Fluffy,12
+Hedwig,Hermione,3948
+Hedwig,Dobby,346
+Hedwig,Fred,271
+Hedwig,George,251
+Hedwig,Oliver Wood,1
+Hedwig,Gryffindor,1
+Hedwig,Weasley,292
+Hedwig,Errol,189
+Hedwig,Percy,48
+Hedwig,Crookshanks,8
+Hedwig,Pigwidgeon,77
+Hedwig,Flitwick,10
+Hedwig,Crouch,24
+Hedwig,Tonks,676
+Hedwig,Moody,35
+Hedwig,Luna Lovegood,28
+Hedwig,Binns,190
+Hedwig,Grubbly-Plank,152
+Hedwig,McGonagall,228
+Hedwig,Bill,48
+Ginny,Percy,1630
+Ginny,Fred,7947
+Ginny,Weasley,10404
+Ginny,Harry,581099
+Ginny,George,7945
+Ginny,Lee Jordan,74
+Ginny,Gilderoy Lockhart,153
+Ginny,Hermione,77980
+Ginny,Arthur,441
+Ginny,McGonagall,310
+Ginny,Colin Creevey,6
+Ginny,Bill,2828
+Ginny,Dobby,13
+Ginny,Fawkes,2967
+Ginny,Lord Voldemort,126
+Ginny,Lucius,189
+Ginny,Ravenclaw,116
+Ginny,Penelope Clearwater,21
+Ginny,Pigwidgeon,122
+Ginny,Errol,13
+Ginny,Charlie,507
+Ginny,Crookshanks,51
+Ginny,Amos,8
+Ginny,Fleur Delacour,10
+Ginny,Moody,348
+Ginny,Parvati,54
+Ginny,Sinistra,2
+Ginny,Rita Skeeter,7
+Ginny,Tonks,340
+Ginny,Kreacher,66
+Ginny,Dudley,33
+Ginny,Neville Longbottom,60
+Ginny,Luna Lovegood,236
+Ginny,Trevor,96
+Ginny,Nearly Headless Nick,21
+Ginny,Katie Bell,39
+Ginny,Alicia Spinnet,8
+Ginny,Angelina Johnson,8
+Ginny,Dennis Creevey,8
+Ginny,Ernie Macmillan,20
+Ginny,Justin Finch-Fletchley,8
+Ginny,Hannah Abbott,8
+Ginny,Anthony Goldstein,16
+Ginny,Michael,162
+Ginny,Cho Chang,42
+Ginny,Montague,48
+Ginny,Phineas Nigellus,24
+Ginny,Millicent Bulstrode,84
+Ginny,Bellatrix,13
+Ginny,Flitwick,15
+Ginny,Dean Thomas,57
+Ginny,Molly,42
+Ginny,Madam Malkin,128
+Ginny,Gabrielle,65
+Ginny,Demelza Robins,79
+Ginny,Viktor Krum,76
+Ginny,Zacharias,228
+Ginny,Romilda Vane,97
+Ginny,Remus Lupin,29
+Ginny,Buckbeak,7
+Ginny,Moaning Myrtle,84
+Ginny,Pansy Parkinson,21
+Ginny,Peter Pettigrew,21
+Ginny,Amycus,4
+Ginny,Pomfrey,19
+Ginny,Muriel,25
+Ginny,Mad-Eye,33
+Ginny,Fenrir Greyback,4
+Ginny,Xenophilius,34
+Ginny,Ollivander,4
+Ginny,Terry,6
+Percy,Ginny,1630
+Percy,Fred,4226
+Percy,George,2670
+Percy,Ron,1210
+Percy,Bill,2145
+Percy,Charlie,1495
+Percy,Scabbers,27
+Percy,Harry,109665
+Percy,Slytherin,182
+Percy,McGonagall,180
+Percy,Blaise,13
+Percy,Hermione,10115
+Percy,Quirrell,39
+Percy,Peeves,39
+Percy,Baron,26
+Percy,Weasley,3599
+Percy,Gryffindor,2
+Percy,Errol,22
+Percy,Lee Jordan,44
+Percy,Colin Creevey,9
+Percy,Draco Malfoy,30
+Percy,Vernon,19
+Percy,Petunia,3
+Percy,Hedwig,48
+Percy,Dean Thomas,4
+Percy,Flitwick,23
+Percy,Seamus Finnigan,10
+Percy,Sir Cadogan,80
+Percy,Ravenclaw,32
+Percy,Penelope Clearwater,8
+Percy,Buckbeak,5
+Percy,Ludo Bagman,288
+Percy,Bertha Jorkins,21
+Percy,Crouch,912
+Percy,Barty,71
+Percy,Cornelius Fudge,43
+Percy,Mundungus Fletcher,10
+Percy,Karkaroff,236
+Percy,Maxime,1
+Percy,Dobby,304
+Percy,Binns,2
+Percy,Moody,1
+Percy,Padma,120
+Percy,Sprout,10
+Percy,Rita Skeeter,26
+Percy,Fleur Delacour,20
+Percy,Cedric,35
+Percy,Viktor Krum,10
+Percy,Lord Voldemort,18
+Percy,Dolores Jane Umbridge,10
+Percy,Arthur,127
+Percy,Kingsley Shacklebolt,5
+Percy,Rufus Scrimgeour,4
+Percy,Grawp,6
+Fred,George,70282
+Fred,Ginny,7947
+Fred,Harry,362504
+Fred,Ron,1311
+Fred,Percy,4226
+Fred,Bill,2033
+Fred,Charlie,880
+Fred,Snape,18
+Fred,Slytherin,22
+Fred,Crabbe,8
+Fred,Goyle,26
+Fred,Gryffindor,23
+Fred,Marcus Flint,12
+Fred,Alicia Spinnet,39
+Fred,Oliver Wood,11
+Fred,Weasley,16990
+Fred,Flitwick,18
+Fred,Hedwig,271
+Fred,Vernon,603
+Fred,Dobby,118
+Fred,Hermione,39362
+Fred,Lee Jordan,234
+Fred,Arthur,73
+Fred,Katie Bell,63
+Fred,Angelina Johnson,15
+Fred,Hooch,44
+Fred,Colin Creevey,6
+Fred,Draco Malfoy,30
+Fred,Ravenclaw,38
+Fred,Petunia,438
+Fred,Dudley,513
+Fred,Molly,255
+Fred,Crookshanks,39
+Fred,Viktor Krum,40
+Fred,Cedric,96
+Fred,Ludo Bagman,61
+Fred,Who,5
+Fred,Pigwidgeon,198
+Fred,Moody,697
+Fred,McGonagall,178
+Fred,Great,26
+Fred,Padma,168
+Fred,Karkaroff,77
+Fred,Sprout,7
+Fred,Crouch,27
+Fred,Kreacher,2604
+Fred,Binns,72
+Fred,Parvati,17
+Fred,Luna Lovegood,24
+Fred,Dennis Creevey,8
+Fred,Ernie Macmillan,16
+Fred,Justin Finch-Fletchley,8
+Fred,Hannah Abbott,13
+Fred,Anthony Goldstein,25
+Fred,Michael,24
+Fred,Montague,144
+Fred,Peeves,6
+Fred,Dean Thomas,21
+Fred,Romilda Vane,6
+Fred,Remus Lupin,19
+Fred,Kingsley Shacklebolt,1
+Fred,Arabella Figg,1
+Fred,Madam Malkin,1
+Fred,Mundungus Fletcher,7
+Fred,Mad-Eye,27
+Fred,Muriel,955
+Fred,Severus Snape,5
+Fred,Ollivander,4
+George,Fred,70282
+George,Harry,327531
+George,Ron,3467
+George,Percy,2670
+George,Bill,2402
+George,Charlie,969
+George,Snape,18
+George,Slytherin,25
+George,Crabbe,8
+George,Goyle,24
+George,Gryffindor,20
+George,Marcus Flint,19
+George,Alicia Spinnet,49
+George,Oliver Wood,7
+George,Weasley,15330
+George,Hermione,32650
+George,Vernon,579
+George,Hedwig,251
+George,Draco Malfoy,96
+George,Ginny,7945
+George,Lee Jordan,263
+George,Arthur,84
+George,Katie Bell,145
+George,Angelina Johnson,15
+George,August,11
+George,Hooch,54
+George,Colin Creevey,3
+George,Crookshanks,48
+George,Scabbers,3
+George,Ravenclaw,20
+George,Montague,374
+George,Petunia,258
+George,Dudley,514
+George,Molly,320
+George,Cedric,108
+George,Viktor Krum,18
+George,Ludo Bagman,53
+George,Who,6
+George,Moody,972
+George,McGonagall,288
+George,Great,22
+George,Pigwidgeon,142
+George,Padma,96
+George,Karkaroff,88
+George,Sprout,8
+George,Crouch,54
+George,Rita Skeeter,7
+George,Fleur Delacour,15
+George,Kreacher,1674
+George,Binns,72
+George,Flitwick,26
+George,Parvati,13
+George,Luna Lovegood,12
+George,Dennis Creevey,4
+George,Ernie Macmillan,8
+George,Justin Finch-Fletchley,4
+George,Hannah Abbott,4
+George,Anthony Goldstein,16
+George,Michael,12
+George,Zacharias,56
+George,Dobby,12
+George,Run,14
+George,Romilda Vane,6
+George,Remus Lupin,18
+George,Kingsley Shacklebolt,1
+George,Arabella Figg,1
+George,Madam Malkin,1
+George,Mundungus Fletcher,10
+George,Muriel,958
+George,Ollivander,8
+Ron,Harry,467184
+Ron,Fred,1311
+Ron,George,3467
+Ron,Percy,1210
+Ron,Bill,528
+Ron,Charlie,1058
+Ron,Dudley,330
+Ron,Scabbers,352
+Ron,Ravenclaw,122
+Ron,Neville,660
+Ron,Hermione,40808
+Ron,Draco Malfoy,132
+Ron,Crabbe,132
+Ron,Goyle,1248
+Ron,Thomas,14
+Ron,McGonagall,1132
+Ron,Slytherin,668
+Ron,Blaise,14
+Ron,Nearly Headless Nick,28
+Ron,Argus Filch,19
+Ron,Quirrell,57
+Ron,Snape,1710
+Ron,Hedwig,38
+Ron,Fang,190
+Ron,Seamus Finnigan,79
+Ron,Dean Thomas,37
+Ron,Gryffindor,386
+Ron,Hooch,74
+Ron,Blood,37
+Ron,Peeves,259
+Ron,Flitwick,554
+Ron,Granger,84
+Ron,Marcus Flint,88
+Ron,Lee Jordan,66
+Ron,Weasley,790
+Ron,Fluffy,180
+Ron,Norbert,600
+Bill,Fred,2033
+Bill,George,2402
+Bill,Ron,528
+Bill,Percy,2144
+Bill,Charlie,2814
+Bill,Harry,132650
+Bill,Weasley,6744
+Bill,Hermione,12170
+Bill,Ginny,2828
+Bill,Crookshanks,19
+Bill,Molly,70
+Bill,Rita Skeeter,15
+Bill,Moody,32
+Bill,Pigwidgeon,40
+Bill,Cedric,728
+Bill,Viktor Krum,13
+Bill,Gabrielle,67
+Bill,Fleur Delacour,26
+Bill,Sir Cadogan,26
+Bill,Amos,13
+Bill,Ludo Bagman,26
+Bill,Cornelius Fudge,39
+Bill,Tonks,340
+Bill,Who,34
+Bill,Kingsley Shacklebolt,6
+Bill,Remus Lupin,20
+Bill,Florean Fortescue,7
+Bill,Pomfrey,46
+Bill,Arthur,69
+Bill,Muriel,125
+Bill,Arabella Figg,4
+Bill,Madam Malkin,4
+Bill,Petunia,12
+Bill,Mundungus Fletcher,4
+Bill,Hedwig,48
+Bill,Mad-Eye,299
+Bill,Peter Pettigrew,16
+Bill,Fenrir Greyback,8
+Bill,Griphook,4054
+Bill,Xenophilius,170
+Bill,Dobby,1260
+Bill,Ollivander,544
+Bill,Andromeda,34
+Bill,Sirius Black,34
+Bill,Bellatrix,35
+Bill,Oliver Wood,4
+Bill,Katie Bell,4
+Bill,Angelina Johnson,4
+Bill,Alicia Spinnet,4
+Charlie,Fred,880
+Charlie,George,969
+Charlie,Ron,1058
+Charlie,Percy,1494
+Charlie,Bill,2814
+Charlie,Harry,18118
+Charlie,Seamus Finnigan,2
+Charlie,Dean Thomas,2
+Charlie,McGonagall,10
+Charlie,Weasley,1224
+Charlie,Norbert,570
+Charlie,Hedwig,11
+Charlie,Hermione,2027
+Charlie,Ginny,507
+Charlie,Crookshanks,13
+Charlie,Auror,10
+Charlie,Pigwidgeon,40
+Charlie,Maxime,44
+Charlie,Dobby,15
+Charlie,Gabrielle,8
+Scabbers,Percy,26
+Scabbers,Ron,352
+Scabbers,Harry,2459
+Scabbers,Hermione,639
+Scabbers,Crabbe,2
+Scabbers,Goyle,6
+Scabbers,Gryffindor,3
+Scabbers,Errol,2
+Scabbers,Crookshanks,102
+Scabbers,George,3
+Scabbers,Weasley,2
+Scabbers,Lupin,454
+Scabbers,Peter Pettigrew,4
+Scabbers,Remus,6
+Albus Dumbledore,Harry,3598
+Albus Dumbledore,Quirrell,3
+Albus Dumbledore,Dobby,57
+Albus Dumbledore,Arthur,4
+Albus Dumbledore,Sirius Black,10
+Albus Dumbledore,Weasley,10
+Albus Dumbledore,Lord Voldemort,9
+Albus Dumbledore,Hermione,186
+Albus Dumbledore,Macnair,2
+Albus Dumbledore,Cornelius Fudge,7
+Albus Dumbledore,Rita Skeeter,54
+Albus Dumbledore,Alastor,2
+Albus Dumbledore,Moody,90
+Albus Dumbledore,Love,1
+Albus Dumbledore,Crouch,150
+Albus Dumbledore,McGonagall,4
+Albus Dumbledore,Petunia,59
+Albus Dumbledore,Vernon,124
+Albus Dumbledore,Phineas Nigellus,11
+Albus Dumbledore,Minerva McGonagall,3
+Albus Dumbledore,Bellatrix,16
+Albus Dumbledore,Rufus Scrimgeour,3
+Albus Dumbledore,Dudley,27
+Albus Dumbledore,Draco Malfoy,1
+Albus Dumbledore,Elphias Doge,15
+Albus Dumbledore,Gellert Grindelwald,56
+Neville,Hermione,59
+Neville,Ravenclaw,5
+Neville,Harry,1575
+Neville,Ron,660
+Hermione,Ravenclaw,780
+Hermione,Neville,59
+Hermione,Harry,10143866
+Hermione,Ron,40808
+Hermione,Crabbe,3340
+Hermione,Goyle,6360
+Hermione,Scabbers,639
+Hermione,McGonagall,8050
+Hermione,Granger,576
+Hermione,Percy,10115
+Hermione,Snape,126
+Hermione,Hooch,24
+Hermione,Gryffindor,501
+Hermione,Flitwick,1470
+Hermione,Seamus Finnigan,123
+Hermione,Marcus Flint,80
+Hermione,Quirrell,705
+Hermione,Lee Jordan,571
+Hermione,Slytherin,264
+Hermione,George,32650
+Hermione,Weasley,34543
+Hermione,Fluffy,540
+Hermione,Norbert,1164
+Hermione,Charlie,2027
+Hermione,Fang,4113
+Hermione,Ronan,990
+Hermione,Bane,655
+Hermione,Voldemort,244
+Hermione,Professor Dumbledore,61
+Hermione,Vernon,730
+Hermione,Dudley,2308
+Hermione,Hedwig,3948
+Hermione,Dobby,19026
+Hermione,Errol,182
+Hermione,Fred,39362
+Hermione,Lucius,219
+Hermione,Gilderoy Lockhart,308
+Hermione,Ginny,77980
+Hermione,Neville Longbottom,136
+Hermione,Sprout,1283
+Hermione,Justin Finch-Fletchley,53
+Hermione,Know,26
+Hermione,Dean Thomas,303
+Hermione,Oliver Wood,109
+Hermione,Myrtle,330
+Hermione,Peeves,719
+Hermione,Binns,1760
+Hermione,Salazar Slytherin,158
+Hermione,Moaning Myrtle,342
+Hermione,Pince,26
+Hermione,Pomfrey,124
+Hermione,Millicent Bulstrode,1541
+Hermione,Bill,12170
+Hermione,Tom Riddle,147
+Hermione,Ernie Macmillan,275
+Hermione,Nearly Headless Nick,873
+Hermione,Aragog,1967
+Hermione,Florean Fortescue,42
+Hermione,Crookshanks,5854
+Hermione,Lupin,30960
+Hermione,Sirius Black,747
+Hermione,Draco Malfoy,1021
+Hermione,Trelawney,5040
+Hermione,Buckbeak,56873
+Hermione,Professor Trelawney,78
+Hermione,Parvati,8623
+Hermione,Macnair,84
+Hermione,Albus Dumbledore,186
+Hermione,Cornelius Fudge,468
+Hermione,James,474
+Hermione,Poppy,160
+Hermione,Petunia,662
+Hermione,Pigwidgeon,1308
+Hermione,Arthur,127
+Hermione,Amos,296
+Hermione,Viktor Krum,835
+Hermione,Ludo Bagman,911
+Hermione,Crouch,6643
+Hermione,Winky,16817
+Hermione,Colin Creevey,112
+Hermione,Dennis Creevey,136
+Hermione,Moody,13483
+Hermione,Karkaroff,3038
+Hermione,Great,45
+Hermione,Maxime,45
+Hermione,Cedric,10300
+Hermione,Pansy Parkinson,1462
+Hermione,Rita Skeeter,3149
+Hermione,Padma,1692
+Hermione,Roger Davies,235
+Hermione,Grubbly-Plank,384
+Hermione,Madam Rosmerta,199
+Hermione,Fleur Delacour,328
+Hermione,Cho Chang,141
+Hermione,Molly,95
+Hermione,Kreacher,25250
+Hermione,Tonks,80
+Hermione,Sturgis Podmore,76
+Hermione,Anthony Goldstein,220
+Hermione,Alicia Spinnet,53
+Hermione,Sinistra,53
+Hermione,Luna Lovegood,275
+Hermione,Lord Voldemort,185
+Hermione,Zacharias,910
+Hermione,Michael,390
+Hermione,Katie Bell,46
+Hermione,Montague,1284
+Hermione,Fat,22
+Hermione,Who,105
+Hermione,Argus Filch,100
+Hermione,Stan Shunpike,26
+Hermione,Firenze,1313
+Hermione,Hannah Abbott,10
+Hermione,Grawp,16398
+Hermione,Gregory Goyle,108
+Hermione,Magorian,180
+Hermione,Bellatrix,9755
+Hermione,Madam Malkin,1032
+Hermione,Narcissa,129
+Hermione,Nott,88
+Hermione,Cormac McLaggen,207
+Hermione,Romilda Vane,399
+Hermione,Rufus Scrimgeour,17
+Hermione,Fenrir Greyback,74
+Hermione,Vector,33
+Hermione,Mundungus Fletcher,14
+Hermione,Ollivander,2867
+Hermione,Mad-Eye,205
+Hermione,Gabrielle,274
+Hermione,Beedle,233
+Hermione,Muriel,1990
+Hermione,Xenophilius,32177
+Hermione,Aberforth,44
+Hermione,Mafalda Hopkirk,138
+Hermione,Yaxley,3510
+Hermione,Cattermole,69
+Hermione,Albert,240
+Hermione,Runcorn,612
+Hermione,Gregorovitch,46
+Hermione,Griphook,49619
+Hermione,Severus Snape,53
+Hermione,Godric Gryffindor,129
+Hermione,Bathilda Bagshot,86
+Hermione,Lily,262
+Hermione,Nagini,96
+Hermione,Gellert Grindelwald,91
+Hermione,Ignotus,94
+Hermione,Penelope Clearwater,29
+Hermione,Scabior,464
+Hermione,Travers,5852
+Hermione,Bogrod,3420
+Ravenclaw,Hermione,780
+Ravenclaw,Neville,4
+Ravenclaw,Ron,122
+Ravenclaw,Slytherin,60
+Ravenclaw,Terry,12
+Ravenclaw,Harry,10182
+Ravenclaw,Thomas,2
+Ravenclaw,Gryffindor,6
+Ravenclaw,Weasley,21
+Ravenclaw,Hooch,6
+Ravenclaw,Nearly Headless Nick,26
+Ravenclaw,Ginny,116
+Ravenclaw,Penelope Clearwater,5
+Ravenclaw,McGonagall,24
+Ravenclaw,Fred,38
+Ravenclaw,Lupin,664
+Ravenclaw,Cho Chang,28
+Ravenclaw,Percy,32
+Ravenclaw,Davies,4
+Ravenclaw,George,20
+Ravenclaw,Neville Longbottom,2
+Ravenclaw,Luna Lovegood,10
+Ravenclaw,Trevor,4
+Ravenclaw,Anthony Goldstein,3
+Ravenclaw,Parvati,7
+Ravenclaw,Ernie Macmillan,5
+Ravenclaw,Lee Jordan,3
+Ravenclaw,Katie Bell,2
+Ravenclaw,Alicia Spinnet,1
+Ravenclaw,Angelina Johnson,1
+Ravenclaw,Dennis Creevey,1
+Ravenclaw,Justin Finch-Fletchley,1
+Ravenclaw,Hannah Abbott,1
+Ravenclaw,Michael,11
+Ravenclaw,Vector,2
+Ravenclaw,Moaning Myrtle,8
+Ravenclaw,Flitwick,4
+Crabbe,Harry,24512
+Crabbe,Goyle,7916
+Crabbe,Draco Malfoy,7
+Crabbe,Ron,132
+Crabbe,Hermione,3340
+Crabbe,Scabbers,2
+Crabbe,Snape,18
+Crabbe,McGonagall,16
+Crabbe,Fred,8
+Crabbe,George,8
+Crabbe,Moaning Myrtle,38
+Crabbe,Millicent Bulstrode,76
+Goyle,Harry,50739
+Goyle,Crabbe,7916
+Goyle,Draco Malfoy,16
+Goyle,Ron,1248
+Goyle,Hermione,6360
+Goyle,Scabbers,6
+Goyle,Snape,36
+Goyle,McGonagall,24
+Goyle,Fred,26
+Goyle,George,24
+Goyle,Slytherin,20
+Goyle,Moaning Myrtle,58
+Goyle,Millicent Bulstrode,116
+Draco Malfoy,Harry,11534
+Draco Malfoy,Crabbe,7
+Draco Malfoy,Goyle,16
+Draco Malfoy,Ron,132
+Draco Malfoy,Dudley,2
+Draco Malfoy,Slytherin,16
+Draco Malfoy,Gryffindor,4
+Draco Malfoy,McGonagall,24
+Draco Malfoy,George,96
+Draco Malfoy,Dobby,189
+Draco Malfoy,Fred,30
+Draco Malfoy,Percy,30
+Draco Malfoy,Lupin,93
+Draco Malfoy,Vincent Crabbe,5
+Draco Malfoy,Gregory Goyle,2
+Draco Malfoy,Hermione,1021
+Draco Malfoy,Neville Longbottom,3
+Draco Malfoy,Cedric,6
+Draco Malfoy,Rita Skeeter,2
+Draco Malfoy,Grubbly-Plank,20
+Draco Malfoy,Granger,2
+Draco Malfoy,Pansy Parkinson,8
+Draco Malfoy,Fat,1
+Draco Malfoy,Weasley,47
+Draco Malfoy,Sirius Black,3
+Draco Malfoy,Flitwick,4
+Draco Malfoy,Lord Voldemort,4
+Draco Malfoy,Argus Filch,1
+Draco Malfoy,Kreacher,55
+Draco Malfoy,Albus Dumbledore,1
+Draco Malfoy,Ollivander,2
+Draco Malfoy,Bellatrix,7
+Slytherin,Ravenclaw,59
+Slytherin,Harry,8363
+Slytherin,Millicent,7
+Slytherin,Percy,182
+Slytherin,McGonagall,54
+Slytherin,Ron,668
+Slytherin,Blaise,7
+Slytherin,Nearly Headless Nick,14
+Slytherin,Baron,7
+Slytherin,Quirrell,21
+Slytherin,Snape,14
+Slytherin,Dudley,3
+Slytherin,Draco Malfoy,16
+Slytherin,Gryffindor,50
+Slytherin,Fred,22
+Slytherin,George,25
+Slytherin,Pansy Parkinson,3
+Slytherin,Parvati,3
+Slytherin,Severus Snape,4
+Slytherin,Marcus Flint,8
+Slytherin,Alicia Spinnet,1
+Slytherin,Oliver Wood,2
+Slytherin,Lee Jordan,3
+Slytherin,Weasley,34
+Slytherin,Hermione,264
+Slytherin,Goyle,20
+Granger,McGonagall,14
+Granger,Harry,811
+Granger,Hermione,576
+Granger,Hooch,2
+Granger,Ron,84
+Granger,Flitwick,15
+Granger,Seamus Finnigan,1
+Granger,Weasley,4
+Granger,Sprout,2
+Granger,Ernie Macmillan,1
+Granger,Sirius Black,4
+Granger,Poppy,2
+Granger,Rita Skeeter,2
+Granger,Viktor Krum,2
+Granger,Moody,19
+Granger,Draco Malfoy,2
+Granger,Scabior,32
+Granger,Narcissa,20
+Granger,Lucius,22
+Abbott,Hannah,1
+Hannah,Abbott,1
+Hannah,Harry,712
+Hannah,Susan,4
+Susan,Hannah,3
+Terry,Ravenclaw,11
+Terry,Harry,73
+Terry,Michael,4
+Terry,Ernie Macmillan,1
+Terry,Anthony Goldstein,1
+Terry,Ginny,6
+Millicent,Harry,61
+Millicent,Slytherin,7
+Thomas,Harry,61
+Thomas,Ravenclaw,2
+Thomas,Ron,14
+Blaise,McGonagall,6
+Blaise,Harry,61
+Blaise,Slytherin,7
+Blaise,Ron,14
+Blaise,Percy,13
+Nearly Headless Nick,Ron,27
+Nearly Headless Nick,Slytherin,14
+Nearly Headless Nick,Baron,2
+Nearly Headless Nick,Harry,10452
+Nearly Headless Nick,Peeves,58
+Nearly Headless Nick,McGonagall,52
+Nearly Headless Nick,Ernie,120
+Nearly Headless Nick,Flitwick,4
+Nearly Headless Nick,Ernie Macmillan,1
+Nearly Headless Nick,Sprout,1
+Nearly Headless Nick,Hermione,873
+Nearly Headless Nick,Ravenclaw,26
+Nearly Headless Nick,Ginny,21
+Nearly Headless Nick,Parvati,12
+Baron,Slytherin,6
+Baron,Nearly Headless Nick,2
+Baron,Percy,26
+Baron,Peeves,6
+Snape,Quirrell,11
+Snape,Harry,6872
+Snape,Slytherin,14
+Snape,Ron,1710
+Snape,Flitwick,36
+Snape,Crabbe,18
+Snape,Goyle,36
+Snape,Hermione,126
+Snape,Fred,18
+Snape,George,18
+Peeves,Percy,38
+Peeves,Baron,6
+Peeves,McGonagall,102
+Peeves,Ron,259
+Peeves,Harry,7692
+Peeves,Myrtle,90
+Peeves,Hermione,719
+Peeves,Nearly Headless Nick,58
+Peeves,Ernie Macmillan,1
+Peeves,Sprout,1
+Peeves,Lupin,200
+Peeves,Sirius Black,3
+Peeves,Crouch,21
+Peeves,Moody,714
+Peeves,Katie Bell,1
+Peeves,Argus Filch,1
+Peeves,Fred,6
+Peeves,Kreacher,17
+Peeves,Dobby,13
+Argus Filch,Harry,610
+Argus Filch,Ron,19
+Argus Filch,Quirrell,3
+Argus Filch,Weasley,1
+Argus Filch,Hermione,100
+Argus Filch,Peeves,1
+Argus Filch,Draco Malfoy,1
+Flitwick,Harry,15382
+Flitwick,Snape,36
+Flitwick,Ron,554
+Flitwick,McGonagall,103
+Flitwick,Hermione,1470
+Flitwick,Seamus Finnigan,6
+Flitwick,Granger,15
+Flitwick,Fred,18
+Flitwick,Fluffy,3
+Flitwick,Sprout,498
+Flitwick,Ernie,15
+Flitwick,Nearly Headless Nick,4
+Flitwick,Percy,23
+Flitwick,Cornelius Fudge,3
+Flitwick,Madam Rosmerta,48
+Flitwick,Buckbeak,120
+Flitwick,Hedwig,10
+Flitwick,Cedric,56
+Flitwick,Moody,28
+Flitwick,George,26
+Flitwick,James,204
+Flitwick,Parvati,8
+Flitwick,Padma,2
+Flitwick,Draco Malfoy,4
+Flitwick,Ginny,15
+Flitwick,Ernie Macmillan,8
+Flitwick,Pomfrey,8
+Flitwick,Ravenclaw,4
+Flitwick,Amycus,91
+Flitwick,Arthur,4
+Flitwick,Tom Riddle,8
+Flitwick,Yaxley,1
+Seamus Finnigan,Quirrell,2
+Seamus Finnigan,Harry,1439
+Seamus Finnigan,Ron,79
+Seamus Finnigan,Charlie,2
+Seamus Finnigan,Dean Thomas,9
+Seamus Finnigan,Hermione,123
+Seamus Finnigan,Flitwick,6
+Seamus Finnigan,Granger,1
+Seamus Finnigan,Neville Longbottom,3
+Seamus Finnigan,Sirius Black,2
+Seamus Finnigan,Lupin,80
+Seamus Finnigan,Parvati,6
+Seamus Finnigan,Percy,10
+Fang,Harry,51250
+Fang,Ron,190
+Fang,Hermione,4113
+Fang,Lucius,12
+Fang,Buckbeak,46
+Fang,Karkaroff,110
+Fang,Norbert,1
+Gryffindor,Dudley,1
+Gryffindor,Draco Malfoy,4
+Gryffindor,Slytherin,50
+Gryffindor,Harry,5097
+Gryffindor,Ron,386
+Gryffindor,McGonagall,20
+Gryffindor,Hermione,501
+Gryffindor,Scabbers,3
+Gryffindor,Angelina Johnson,4
+Gryffindor,George,20
+Gryffindor,Fred,23
+Gryffindor,Marcus Flint,24
+Gryffindor,Alicia Spinnet,5
+Gryffindor,Oliver Wood,4
+Gryffindor,Hooch,9
+Gryffindor,Lee Jordan,9
+Gryffindor,Weasley,10
+Gryffindor,Voldemort,4
+Gryffindor,Quirrell,62
+Gryffindor,Ravenclaw,6
+Gryffindor,Percy,2
+Gryffindor,Hedwig,1
+Gryffindor,Katie Bell,1
+Dean Thomas,Harry,1800
+Dean Thomas,Ron,37
+Dean Thomas,Seamus Finnigan,9
+Dean Thomas,Charlie,2
+Dean Thomas,Neville Longbottom,5
+Dean Thomas,Hermione,303
+Dean Thomas,Binns,14
+Dean Thomas,Trelawney,60
+Dean Thomas,Parvati,8
+Dean Thomas,McGonagall,8
+Dean Thomas,Vernon,2
+Dean Thomas,Percy,4
+Dean Thomas,Moody,28
+Dean Thomas,Lee Jordan,2
+Dean Thomas,Cedric,1
+Dean Thomas,Ginny,57
+Dean Thomas,Fred,21
+Dean Thomas,Katie Bell,4
+Dean Thomas,Romilda Vane,2
+Hooch,Harry,2074
+Hooch,Ron,74
+Hooch,Hermione,24
+Hooch,Granger,2
+Hooch,Gryffindor,9
+Hooch,Ravenclaw,6
+Hooch,Fred,44
+Hooch,George,54
+Hooch,Weasley,6
+Hooch,Davies,1
+Hooch,Lee Jordan,8
+Hooch,Montague,16
+Hooch,McGonagall,6
+Pansy Parkinson,Parvati,39
+Pansy Parkinson,Slytherin,2
+Pansy Parkinson,Hermione,1462
+Pansy Parkinson,Harry,3656
+Pansy Parkinson,Love,2
+Pansy Parkinson,Draco Malfoy,8
+Pansy Parkinson,Grubbly-Plank,4
+Pansy Parkinson,Ginny,21
+Pansy Parkinson,Moaning Myrtle,4
+Parvati,Pansy Parkinson,39
+Parvati,Slytherin,2
+Parvati,Trelawney,44
+Parvati,Harry,46445
+Parvati,Lupin,120
+Parvati,Seamus Finnigan,6
+Parvati,Dean Thomas,8
+Parvati,Professor Trelawney,16
+Parvati,Hermione,8623
+Parvati,Moody,282
+Parvati,McGonagall,68
+Parvati,Padma,1523
+Parvati,Fleur Delacour,90
+Parvati,Roger Davies,180
+Parvati,Cedric,108
+Parvati,Ginny,54
+Parvati,Sinistra,18
+Parvati,Karkaroff,14
+Parvati,Nearly Headless Nick,12
+Parvati,Ravenclaw,7
+Parvati,Fred,17
+Parvati,George,13
+Parvati,Lee Jordan,3
+Parvati,Luna Lovegood,3
+Parvati,Katie Bell,2
+Parvati,Alicia Spinnet,1
+Parvati,Angelina Johnson,1
+Parvati,Dennis Creevey,1
+Parvati,Ernie Macmillan,2
+Parvati,Justin Finch-Fletchley,1
+Parvati,Hannah Abbott,1
+Parvati,Anthony Goldstein,2
+Parvati,Michael,3
+Parvati,Firenze,661
+Parvati,Flitwick,8
+Parvati,Cormac McLaggen,10
+Blood,Harry,250
+Blood,Ron,37
+Blood,McGonagall,6
+Blood,Montague,1
+Severus Snape,Slytherin,3
+Severus Snape,Harry,590
+Severus Snape,Lord Voldemort,8
+Severus Snape,Bellatrix,16
+Severus Snape,Hermione,53
+Severus Snape,Griphook,9
+Severus Snape,Fred,5
+Severus Snape,Lily,21
+Severus Snape,Lucius,2
+Marcus Flint,Slytherin,8
+Marcus Flint,Harry,1238
+Marcus Flint,Gryffindor,24
+Marcus Flint,George,19
+Marcus Flint,Fred,12
+Marcus Flint,Alicia Spinnet,4
+Marcus Flint,Oliver Wood,4
+Marcus Flint,Hermione,80
+Marcus Flint,Ron,88
+Marcus Flint,McGonagall,3
+Angelina Johnson,Gryffindor,3
+Angelina Johnson,Fred,15
+Angelina Johnson,Alicia Spinnet,4
+Angelina Johnson,Katie Bell,10
+Angelina Johnson,George,15
+Angelina Johnson,Weasley,5
+Angelina Johnson,Harry,411
+Angelina Johnson,McGonagall,4
+Angelina Johnson,Grubbly-Plank,4
+Angelina Johnson,Sinistra,2
+Angelina Johnson,Lee Jordan,3
+Angelina Johnson,Parvati,1
+Angelina Johnson,Luna Lovegood,3
+Angelina Johnson,Dennis Creevey,1
+Angelina Johnson,Ernie Macmillan,2
+Angelina Johnson,Justin Finch-Fletchley,1
+Angelina Johnson,Hannah Abbott,1
+Angelina Johnson,Ravenclaw,1
+Angelina Johnson,Anthony Goldstein,2
+Angelina Johnson,Ginny,8
+Angelina Johnson,Michael,3
+Angelina Johnson,Montague,12
+Angelina Johnson,Oliver Wood,1
+Angelina Johnson,Bill,4
+Lee Jordan,McGonagall,6
+Lee Jordan,Slytherin,3
+Lee Jordan,Harry,3567
+Lee Jordan,Gryffindor,9
+Lee Jordan,Hermione,571
+Lee Jordan,Ron,66
+Lee Jordan,Weasley,40
+Lee Jordan,Fluffy,12
+Lee Jordan,George,263
+Lee Jordan,Ginny,74
+Lee Jordan,Fred,234
+Lee Jordan,Percy,44
+Lee Jordan,Hooch,8
+Lee Jordan,Great,3
+Lee Jordan,Dean Thomas,2
+Lee Jordan,Cedric,2
+Lee Jordan,Parvati,3
+Lee Jordan,Luna Lovegood,9
+Lee Jordan,Katie Bell,6
+Lee Jordan,Alicia Spinnet,3
+Lee Jordan,Angelina Johnson,3
+Lee Jordan,Dennis Creevey,3
+Lee Jordan,Ernie Macmillan,6
+Lee Jordan,Justin Finch-Fletchley,3
+Lee Jordan,Hannah Abbott,4
+Lee Jordan,Ravenclaw,3
+Lee Jordan,Anthony Goldstein,6
+Lee Jordan,Michael,9
+Lee Jordan,Zacharias,3
+Lee Jordan,Cho Chang,2
+Alicia Spinnet,Gryffindor,5
+Alicia Spinnet,George,49
+Alicia Spinnet,Fred,39
+Alicia Spinnet,Marcus Flint,4
+Alicia Spinnet,Oliver Wood,2
+Alicia Spinnet,Katie Bell,15
+Alicia Spinnet,Angelina Johnson,4
+Alicia Spinnet,Weasley,23
+Alicia Spinnet,Harry,582
+Alicia Spinnet,Montague,26
+Alicia Spinnet,Hermione,53
+Alicia Spinnet,Lee Jordan,3
+Alicia Spinnet,Parvati,1
+Alicia Spinnet,Luna Lovegood,3
+Alicia Spinnet,Dennis Creevey,1
+Alicia Spinnet,Ernie Macmillan,2
+Alicia Spinnet,Justin Finch-Fletchley,1
+Alicia Spinnet,Hannah Abbott,1
+Alicia Spinnet,Ravenclaw,1
+Alicia Spinnet,Anthony Goldstein,2
+Alicia Spinnet,Ginny,8
+Alicia Spinnet,Michael,3
+Alicia Spinnet,Bill,4
+Oliver Wood,Gryffindor,4
+Oliver Wood,George,7
+Oliver Wood,Fred,11
+Oliver Wood,Marcus Flint,4
+Oliver Wood,Alicia Spinnet,2
+Oliver Wood,Harry,874
+Oliver Wood,Hedwig,1
+Oliver Wood,Hermione,109
+Oliver Wood,Slytherin,1
+Oliver Wood,McGonagall,12
+Oliver Wood,Weasley,5
+Oliver Wood,Ernie Macmillan,1
+Oliver Wood,Cho Chang,1
+Oliver Wood,Katie Bell,1
+Oliver Wood,Angelina Johnson,1
+Oliver Wood,Bill,4
+Weasley,Harry,519554
+Weasley,Ron,790
+Weasley,Charlie,1224
+Weasley,McGonagall,372
+Weasley,Fred,16990
+Weasley,George,15330
+Weasley,Percy,3599
+Weasley,Slytherin,34
+Weasley,Hermione,34543
+Weasley,Gryffindor,10
+Weasley,Lee Jordan,40
+Weasley,Quirrell,31
+Weasley,Ginny,10404
+Weasley,Vernon,2103
+Weasley,Gilderoy Lockhart,145
+Weasley,Arthur,4047
+Weasley,Bill,6744
+Weasley,Molly,990
+Weasley,Lucius,457
+Weasley,Ravenclaw,21
+Weasley,Justin Finch-Fletchley,4
+Weasley,Know,4
+Weasley,Alicia Spinnet,23
+Weasley,Katie Bell,55
+Weasley,Angelina Johnson,5
+Weasley,Granger,4
+Weasley,August,1
+Weasley,Pomfrey,6
+Weasley,Colin Creevey,3
+Weasley,Petunia,661
+Weasley,Fawkes,36
+Weasley,Lord Voldemort,82
+Weasley,Hedwig,292
+Weasley,Errol,47
+Weasley,Marge,5
+Weasley,Sirius Black,141
+Weasley,Albus Dumbledore,10
+Weasley,Crookshanks,107
+Weasley,Scabbers,2
+Weasley,Sprout,2
+Weasley,Sir Cadogan,8
+Weasley,Cornelius Fudge,240
+Weasley,Hooch,6
+Weasley,Buckbeak,11
+Weasley,Oliver Wood,5
+Weasley,Montague,124
+Weasley,Dudley,592
+Weasley,Amos,174
+Weasley,Cedric,1125
+Weasley,Ludo Bagman,139
+Weasley,Bertha Jorkins,6
+Weasley,Crouch,78
+Weasley,Winky,146
+Weasley,Barty,8
+Weasley,Who,74
+Weasley,Rita Skeeter,183
+Weasley,Moody,1681
+Weasley,Pigwidgeon,188
+Weasley,Dobby,100
+Weasley,Karkaroff,33
+Weasley,Viktor Krum,10
+Weasley,Gabrielle,104
+Weasley,Kreacher,849
+Weasley,Tonks,660
+Weasley,Alastor,59
+Weasley,James,18
+Weasley,Kingsley Shacklebolt,56
+Weasley,Bob,17
+Weasley,Dolores Jane Umbridge,4
+Weasley,Sturgis Podmore,6
+Weasley,Argus Filch,1
+Weasley,Draco Malfoy,47
+Weasley,Minerva,18
+Weasley,Rufus Scrimgeour,58
+Weasley,Mundungus Fletcher,23
+Weasley,Remus Lupin,22
+Weasley,Igor Karkaroff,8
+Weasley,Ollivander,44
+Weasley,Rubeus Hagrid,8
+Weasley,Madam Malkin,193
+Weasley,Zacharias,3
+Weasley,Muriel,106
+Weasley,Arabella Figg,1
+Weasley,Ted Tonks,52
+Weasley,Mad-Eye,102
+Weasley,Beedle,10
+Weasley,Xenophilius,9
+Weasley,Yaxley,32
+Weasley,Dirk Cresswell,12
+Weasley,Runcorn,54
+Fluffy,Ron,180
+Fluffy,Hermione,540
+Fluffy,Harry,6815
+Fluffy,Sprout,3
+Fluffy,Flitwick,3
+Fluffy,Voldemort,48
+Fluffy,Firenze,6
+Fluffy,Bane,6
+Fluffy,Lee Jordan,12
+Fluffy,Hedwig,12
+Sprout,Fluffy,2
+Sprout,Flitwick,498
+Sprout,Harry,10630
+Sprout,Hermione,1283
+Sprout,Gilderoy Lockhart,196
+Sprout,Petunia,14
+Sprout,Colin Creevey,3
+Sprout,Nearly Headless Nick,1
+Sprout,Peeves,1
+Sprout,Ernie Macmillan,4
+Sprout,Granger,2
+Sprout,McGonagall,24
+Sprout,Weasley,2
+Sprout,Moody,104
+Sprout,Cedric,17
+Sprout,Justin Finch-Fletchley,1
+Sprout,Fred,7
+Sprout,George,8
+Sprout,Padma,12
+Sprout,Karkaroff,11
+Sprout,Ludo Bagman,3
+Sprout,Percy,10
+Sprout,Crouch,3
+Sprout,Aragog,1
+Norbert,Harry,3307
+Norbert,Charlie,570
+Norbert,Ron,600
+Norbert,Hermione,1164
+Norbert,Aragog,1
+Norbert,Fang,1
+Ronan,Harry,6448
+Ronan,Hermione,989
+Ronan,Bane,810
+Ronan,Firenze,576
+Bane,Ronan,809
+Bane,Hermione,655
+Bane,Harry,4268
+Bane,Firenze,869
+Bane,Voldemort,94
+Bane,Fluffy,6
+Bane,Magorian,16
+Firenze,Harry,38790
+Firenze,Bane,869
+Firenze,Ronan,576
+Firenze,Voldemort,84
+Firenze,Fluffy,6
+Firenze,Parvati,661
+Firenze,Hermione,1313
+Firenze,Grawp,231
+Firenze,Magorian,99
+Firenze,Sybill Trelawney,1
+Firenze,Rita Skeeter,1
+Professor Dumbledore,Harry,113
+Professor Dumbledore,Hermione,61
+Lord Voldemort,Quirrell,248
+Lord Voldemort,Harry,25675
+Lord Voldemort,Salazar Slytherin,18
+Lord Voldemort,Ginny,126
+Lord Voldemort,Tom Riddle,50
+Lord Voldemort,Weasley,82
+Lord Voldemort,Lucius,110
+Lord Voldemort,Arthur,6
+Lord Voldemort,Sirius Black,10
+Lord Voldemort,Albus Dumbledore,9
+Lord Voldemort,Dudley,16
+Lord Voldemort,Severus Snape,8
+Lord Voldemort,Crouch,80
+Lord Voldemort,Bertha Jorkins,12
+Lord Voldemort,Cedric,416
+Lord Voldemort,Petunia,164
+Lord Voldemort,Vernon,232
+Lord Voldemort,Percy,18
+Lord Voldemort,Cornelius Fudge,3
+Lord Voldemort,Hermione,185
+Lord Voldemort,Draco Malfoy,4
+Lord Voldemort,Merope,10
+Lord Voldemort,Hokey,72
+Lord Voldemort,Ollivander,1
+Lord Voldemort,Gregorovitch,1
+Lord Voldemort,James,180
+Lord Voldemort,Lily,315
+Lord Voldemort,Mundungus Fletcher,15
+Dobby,Harry,539763
+Dobby,Hedwig,346
+Dobby,Albus Dumbledore,57
+Dobby,Hermione,19026
+Dobby,Petunia,570
+Dobby,Vernon,630
+Dobby,Dudley,171
+Dobby,Fred,118
+Dobby,Draco Malfoy,189
+Dobby,Ginny,13
+Dobby,Lucius,476
+Dobby,Winky,27357
+Dobby,Crouch,410
+Dobby,Percy,304
+Dobby,Weasley,100
+Dobby,Charlie,15
+Dobby,Moody,134
+Dobby,McGonagall,19
+Dobby,Karkaroff,119
+Dobby,Poppy,1
+Dobby,Cedric,24
+Dobby,George,12
+Dobby,Kreacher,2092
+Dobby,Peeves,13
+Dobby,Ollivander,104
+Dobby,Bellatrix,281
+Dobby,Griphook,1243
+Dobby,Bill,1260
+Arthur,Harry,15952
+Arthur,Weasley,4047
+Arthur,George,84
+Arthur,Ginny,441
+Arthur,Fred,73
+Arthur,Lucius,30
+Arthur,Lord Voldemort,6
+Arthur,Albus Dumbledore,4
+Arthur,Cedric,18
+Arthur,Hermione,127
+Arthur,Amos,6
+Arthur,Ludo Bagman,72
+Arthur,Crouch,24
+Arthur,Rita Skeeter,7
+Arthur,Molly,57
+Arthur,Tonks,30
+Arthur,Cornelius Fudge,18
+Arthur,Percy,127
+Arthur,Phineas Nigellus,28
+Arthur,Moody,251
+Arthur,Vernon,10
+Arthur,Rufus Scrimgeour,14
+Arthur,Mundungus Fletcher,7
+Arthur,James,20
+Arthur,Bill,69
+Arthur,Ted Tonks,4
+Arthur,Flitwick,4
+Gilderoy Lockhart,Harry,3675
+Gilderoy Lockhart,Weasley,145
+Gilderoy Lockhart,Hermione,308
+Gilderoy Lockhart,Ginny,153
+Gilderoy Lockhart,Sprout,196
+Gilderoy Lockhart,Petunia,7
+Gilderoy Lockhart,Colin Creevey,4
+Gilderoy Lockhart,McGonagall,1
+Gilderoy Lockhart,Fawkes,22
+Gilderoy Lockhart,Moody,2
+Errol,Percy,21
+Errol,Hermione,182
+Errol,Harry,5509
+Errol,Weasley,47
+Errol,Hedwig,189
+Errol,Scabbers,2
+Errol,Petunia,15
+Errol,Ginny,13
+Molly,Weasley,989
+Molly,Harry,5857
+Molly,Sirius Black,20
+Molly,Fred,255
+Molly,George,320
+Molly,Bill,70
+Molly,Arthur,57
+Molly,Hermione,95
+Molly,Tonks,110
+Molly,McGonagall,12
+Molly,Madam Malkin,32
+Molly,Ginny,42
+Molly,Muriel,1
+Molly,Ted Tonks,1
+Lucius,Weasley,456
+Lucius,Hermione,219
+Lucius,Fang,12
+Lucius,Dobby,476
+Lucius,Arthur,30
+Lucius,Lord Voldemort,110
+Lucius,Harry,17967
+Lucius,Ginny,189
+Lucius,Cornelius Fudge,6
+Lucius,Kreacher,4
+Lucius,Narcissa,769
+Lucius,Yaxley,161
+Lucius,Bellatrix,716
+Lucius,Remus Lupin,18
+Lucius,Ollivander,49
+Lucius,Granger,22
+Lucius,Lily,42
+Lucius,Severus Snape,2
+Minerva,McGonagall,53
+Minerva,James,7
+Minerva,Lily,2
+Minerva,Lupin,8
+Minerva,Winky,46
+Minerva,Harry,1130
+Minerva,Cornelius Fudge,13
+Minerva,Crouch,30
+Minerva,Bertha Jorkins,20
+Minerva,Weasley,18
+Minerva,Fawkes,6
+Neville Longbottom,Dean Thomas,5
+Neville Longbottom,Harry,1615
+Neville Longbottom,Hermione,136
+Neville Longbottom,McGonagall,10
+Neville Longbottom,Seamus Finnigan,2
+Neville Longbottom,Lupin,40
+Neville Longbottom,Sirius Black,4
+Neville Longbottom,Peter Pettigrew,1
+Neville Longbottom,Sir Cadogan,3
+Neville Longbottom,Draco Malfoy,3
+Neville Longbottom,Trevor,8
+Neville Longbottom,Ginny,60
+Neville Longbottom,Luna Lovegood,9
+Neville Longbottom,Ravenclaw,2
+Justin Finch-Fletchley,Harry,1034
+Justin Finch-Fletchley,Hermione,53
+Justin Finch-Fletchley,Weasley,4
+Justin Finch-Fletchley,Know,1
+Justin Finch-Fletchley,Cedric,8
+Justin Finch-Fletchley,Ernie Macmillan,4
+Justin Finch-Fletchley,Sprout,1
+Justin Finch-Fletchley,Fred,8
+Justin Finch-Fletchley,George,4
+Justin Finch-Fletchley,Lee Jordan,3
+Justin Finch-Fletchley,Parvati,1
+Justin Finch-Fletchley,Luna Lovegood,3
+Justin Finch-Fletchley,Katie Bell,2
+Justin Finch-Fletchley,Alicia Spinnet,1
+Justin Finch-Fletchley,Angelina Johnson,1
+Justin Finch-Fletchley,Dennis Creevey,1
+Justin Finch-Fletchley,Hannah Abbott,2
+Justin Finch-Fletchley,Ravenclaw,1
+Justin Finch-Fletchley,Anthony Goldstein,3
+Justin Finch-Fletchley,Ginny,8
+Justin Finch-Fletchley,Michael,3
+Know,Harry,139
+Know,Hermione,26
+Know,Weasley,4
+Know,Justin Finch-Fletchley,1
+Know,Colin Creevey,2
+Colin Creevey,Harry,1867
+Colin Creevey,Know,2
+Colin Creevey,Gilderoy Lockhart,4
+Colin Creevey,Percy,9
+Colin Creevey,Ginny,6
+Colin Creevey,Fred,6
+Colin Creevey,George,3
+Colin Creevey,Weasley,3
+Colin Creevey,Sprout,3
+Colin Creevey,Hermione,112
+Colin Creevey,McGonagall,6
+Katie Bell,Fred,62
+Katie Bell,Alicia Spinnet,15
+Katie Bell,Angelina Johnson,10
+Katie Bell,George,145
+Katie Bell,Gryffindor,1
+Katie Bell,Weasley,55
+Katie Bell,Harry,2471
+Katie Bell,Lee Jordan,6
+Katie Bell,Parvati,2
+Katie Bell,Luna Lovegood,6
+Katie Bell,Dennis Creevey,2
+Katie Bell,Ernie Macmillan,4
+Katie Bell,Justin Finch-Fletchley,2
+Katie Bell,Hannah Abbott,2
+Katie Bell,Ravenclaw,2
+Katie Bell,Anthony Goldstein,4
+Katie Bell,Ginny,39
+Katie Bell,Michael,6
+Katie Bell,Hermione,46
+Katie Bell,Peeves,1
+Katie Bell,Montague,180
+Katie Bell,Demelza Robins,1
+Katie Bell,Dean Thomas,4
+Katie Bell,Oliver Wood,1
+Katie Bell,Bill,4
+Myrtle,Hermione,329
+Myrtle,Peeves,90
+Myrtle,Harry,228
+Binns,Harry,5689
+Binns,Hermione,1760
+Binns,Dean Thomas,14
+Binns,Pomfrey,1
+Binns,McGonagall,8
+Binns,Percy,2
+Binns,Moody,2
+Binns,Fred,72
+Binns,George,72
+Binns,Hedwig,190
+Binns,Grubbly-Plank,10
+Godric Gryffindor,Salazar Slytherin,1
+Godric Gryffindor,Harry,468
+Godric Gryffindor,Fawkes,6
+Godric Gryffindor,Hermione,129
+Salazar Slytherin,Godric Gryffindor,1
+Salazar Slytherin,Harry,1590
+Salazar Slytherin,Hermione,158
+Salazar Slytherin,Moaning Myrtle,1
+Salazar Slytherin,Lord Voldemort,18
+Moaning Myrtle,Hermione,341
+Moaning Myrtle,Harry,4006
+Moaning Myrtle,Salazar Slytherin,1
+Moaning Myrtle,Goyle,58
+Moaning Myrtle,Crabbe,38
+Moaning Myrtle,Ravenclaw,8
+Moaning Myrtle,Vector,4
+Moaning Myrtle,Ginny,84
+Moaning Myrtle,Pansy Parkinson,4
+Pince,Hermione,25
+Pince,Hannah Abbott,1
+August,George,10
+August,Weasley,1
+Pomfrey,Harry,2827
+Pomfrey,Weasley,6
+Pomfrey,Hermione,124
+Pomfrey,McGonagall,22
+Pomfrey,Binns,1
+Pomfrey,Flitwick,8
+Pomfrey,Bill,46
+Pomfrey,Ginny,19
+Millicent Bulstrode,Harry,1286
+Millicent Bulstrode,Hermione,1541
+Millicent Bulstrode,Goyle,116
+Millicent Bulstrode,Crabbe,76
+Millicent Bulstrode,Ginny,84
+Ernie,Harry,9989
+Ernie,McGonagall,150
+Ernie,Nearly Headless Nick,120
+Ernie,Flitwick,15
+Macmillan,McGonagall,4
+Fawkes,Harry,53831
+Fawkes,Ginny,2967
+Fawkes,Thick,22
+Fawkes,Gilderoy Lockhart,22
+Fawkes,Weasley,36
+Fawkes,McGonagall,27
+Fawkes,Godric Gryffindor,6
+Fawkes,Minerva,6
+Fawkes,Dawlish,6
+Fawkes,Bellatrix,10
+Ernie Macmillan,Harry,4119
+Ernie Macmillan,Nearly Headless Nick,1
+Ernie Macmillan,Peeves,1
+Ernie Macmillan,Sprout,4
+Ernie Macmillan,Hermione,275
+Ernie Macmillan,Granger,1
+Ernie Macmillan,Oliver Wood,1
+Ernie Macmillan,Cho Chang,2
+Ernie Macmillan,Cedric,13
+Ernie Macmillan,Justin Finch-Fletchley,4
+Ernie Macmillan,Hannah Abbott,4
+Ernie Macmillan,Ravenclaw,5
+Ernie Macmillan,Luna Lovegood,9
+Ernie Macmillan,Fred,16
+Ernie Macmillan,George,8
+Ernie Macmillan,Lee Jordan,6
+Ernie Macmillan,Parvati,2
+Ernie Macmillan,Katie Bell,4
+Ernie Macmillan,Alicia Spinnet,2
+Ernie Macmillan,Angelina Johnson,2
+Ernie Macmillan,Dennis Creevey,2
+Ernie Macmillan,Anthony Goldstein,6
+Ernie Macmillan,Ginny,20
+Ernie Macmillan,Michael,9
+Ernie Macmillan,Flitwick,8
+Ernie Macmillan,Terry,1
+Tom Riddle,Harry,3242
+Tom Riddle,Hermione,147
+Tom Riddle,Lord Voldemort,50
+Tom Riddle,Merope,230
+Tom Riddle,Cole,40
+Tom Riddle,Hokey,45
+Tom Riddle,Hepzibah,100
+Tom Riddle,Marvolo,4
+Tom Riddle,Helena Ravenclaw,6
+Tom Riddle,Flitwick,8
+Aragog,Harry,35274
+Aragog,Hermione,1967
+Aragog,Norbert,1
+Aragog,Grawp,13
+Aragog,Grubbly-Plank,5
+Aragog,Sprout,1
+Aragog,Horace Slughorn,18
+Aragog,Yaxley,6
+Thick,Harry,132
+Thick,Fawkes,22
+Penelope Clearwater,Ginny,20
+Penelope Clearwater,Ravenclaw,5
+Penelope Clearwater,Harry,84
+Penelope Clearwater,Percy,8
+Penelope Clearwater,Hermione,29
+Bathilda Bagshot,Harry,515
+Bathilda Bagshot,Hermione,86
+Bathilda Bagshot,Gellert Grindelwald,14
+Bathilda Bagshot,Dirk Cresswell,2
+Bathilda Bagshot,Gornuk,3
+Stan Shunpike,Harry,2485
+Stan Shunpike,Hermione,26
+Stan Shunpike,Scabior,16
+Sirius Black,Harry,10630
+Sirius Black,Marge,8
+Sirius Black,Florean Fortescue,10
+Sirius Black,Weasley,141
+Sirius Black,Molly,20
+Sirius Black,Albus Dumbledore,10
+Sirius Black,Lord Voldemort,10
+Sirius Black,Hermione,747
+Sirius Black,Lupin,354
+Sirius Black,Seamus Finnigan,2
+Sirius Black,Peeves,3
+Sirius Black,Hannah Abbott,2
+Sirius Black,Madam Rosmerta,256
+Sirius Black,James,118
+Sirius Black,Lily,16
+Sirius Black,Peter Pettigrew,16
+Sirius Black,Neville Longbottom,4
+Sirius Black,McGonagall,65
+Sirius Black,Sir Cadogan,4
+Sirius Black,Granger,4
+Sirius Black,Poppy,8
+Sirius Black,Draco Malfoy,3
+Sirius Black,Kreacher,40
+Sirius Black,Emmeline Vance,1
+Sirius Black,Bill,34
+Cornelius Fudge,Harry,4427
+Cornelius Fudge,Flitwick,3
+Cornelius Fudge,McGonagall,50
+Cornelius Fudge,Weasley,240
+Cornelius Fudge,Hermione,468
+Cornelius Fudge,Macnair,2
+Cornelius Fudge,Albus Dumbledore,7
+Cornelius Fudge,Percy,43
+Cornelius Fudge,Crouch,44
+Cornelius Fudge,Ludo Bagman,6
+Cornelius Fudge,Bill,39
+Cornelius Fudge,Minerva,13
+Cornelius Fudge,Tonks,10
+Cornelius Fudge,Who,1
+Cornelius Fudge,Arthur,18
+Cornelius Fudge,Lord Voldemort,3
+Cornelius Fudge,Lucius,6
+Cornelius Fudge,Luna Lovegood,3
+Cornelius Fudge,Kingsley Shacklebolt,2
+Cornelius Fudge,Minerva McGonagall,1
+Cornelius Fudge,Rufus Scrimgeour,1
+Florean Fortescue,Harry,260
+Florean Fortescue,Sirius Black,10
+Florean Fortescue,Hermione,42
+Florean Fortescue,Bill,7
+Crookshanks,Hermione,5853
+Crookshanks,Harry,19763
+Crookshanks,Weasley,107
+Crookshanks,Hedwig,8
+Crookshanks,Lupin,896
+Crookshanks,Scabbers,102
+Crookshanks,George,48
+Crookshanks,Vernon,5
+Crookshanks,Buckbeak,3
+Crookshanks,Pigwidgeon,16
+Crookshanks,Fred,39
+Crookshanks,Bill,19
+Crookshanks,Charlie,13
+Crookshanks,Ginny,51
+Crookshanks,Romilda Vane,2
+Lupin,Hermione,30959
+Lupin,Vernon,52
+Lupin,Draco Malfoy,93
+Lupin,Vincent Crabbe,26
+Lupin,Gregory Goyle,26
+Lupin,Crookshanks,896
+Lupin,Harry,296001
+Lupin,Sirius Black,354
+Lupin,McGonagall,462
+Lupin,Kettleburn,52
+Lupin,Rubeus Hagrid,26
+Lupin,Peeves,200
+Lupin,Neville Longbottom,40
+Lupin,Seamus Finnigan,80
+Lupin,Parvati,120
+Lupin,Ravenclaw,664
+Lupin,Trelawney,48
+Lupin,Minerva,8
+Lupin,James,586
+Lupin,Scabbers,454
+Lupin,Peter Pettigrew,104
+Lupin,Shack,26
+Lupin,Remus,908
+Lupin,Buckbeak,320
+Lupin,Moody,21
+Vincent Crabbe,Lupin,25
+Vincent Crabbe,Draco Malfoy,5
+Vincent Crabbe,Gregory Goyle,2
+Vincent Crabbe,Harry,130
+Gregory Goyle,Lupin,25
+Gregory Goyle,Draco Malfoy,2
+Gregory Goyle,Vincent Crabbe,2
+Gregory Goyle,Harry,320
+Gregory Goyle,Hermione,108
+Gregory Goyle,Anthony Goldstein,1
+Poppy,McGonagall,2
+Poppy,Granger,2
+Poppy,Sirius Black,8
+Poppy,Hermione,160
+Poppy,Harry,322
+Poppy,Dobby,1
+Kettleburn,Lupin,51
+Kettleburn,Rubeus Hagrid,2
+Rubeus Hagrid,Lupin,25
+Rubeus Hagrid,Kettleburn,2
+Rubeus Hagrid,Harry,165
+Rubeus Hagrid,Weasley,8
+Trelawney,Harry,24591
+Trelawney,Parvati,44
+Trelawney,Hermione,5040
+Trelawney,Dean Thomas,60
+Trelawney,McGonagall,636
+Trelawney,Lupin,48
+Buckbeak,Harry,198104
+Buckbeak,Hermione,56873
+Buckbeak,Fang,46
+Buckbeak,Crookshanks,3
+Buckbeak,Weasley,11
+Buckbeak,McGonagall,3
+Buckbeak,Percy,5
+Buckbeak,Macnair,12
+Buckbeak,Flitwick,120
+Buckbeak,Lupin,320
+Buckbeak,Winky,14
+Buckbeak,Crouch,112
+Buckbeak,Barty,14
+Buckbeak,Kreacher,31
+Buckbeak,Ginny,7
+Hannah Abbott,Sirius Black,1
+Hannah Abbott,Ernie Macmillan,4
+Hannah Abbott,Harry,435
+Hannah Abbott,Fred,13
+Hannah Abbott,George,4
+Hannah Abbott,Lee Jordan,4
+Hannah Abbott,Parvati,1
+Hannah Abbott,Luna Lovegood,3
+Hannah Abbott,Katie Bell,2
+Hannah Abbott,Alicia Spinnet,1
+Hannah Abbott,Angelina Johnson,1
+Hannah Abbott,Dennis Creevey,1
+Hannah Abbott,Justin Finch-Fletchley,2
+Hannah Abbott,Ravenclaw,1
+Hannah Abbott,Anthony Goldstein,3
+Hannah Abbott,Ginny,8
+Hannah Abbott,Michael,3
+Hannah Abbott,Hermione,10
+Hannah Abbott,Pince,1
+Sir Cadogan,Percy,79
+Sir Cadogan,Harry,2326
+Sir Cadogan,McGonagall,4
+Sir Cadogan,Weasley,8
+Sir Cadogan,Neville Longbottom,3
+Sir Cadogan,Sirius Black,4
+Sir Cadogan,Bill,26
+Madam Rosmerta,Sirius Black,255
+Madam Rosmerta,James,112
+Madam Rosmerta,Flitwick,48
+Madam Rosmerta,Harry,1454
+Madam Rosmerta,Moody,13
+Madam Rosmerta,Hermione,199
+Peter Pettigrew,Harry,830
+Peter Pettigrew,Sirius Black,16
+Peter Pettigrew,Neville Longbottom,1
+Peter Pettigrew,Lupin,104
+Peter Pettigrew,Scabbers,4
+Peter Pettigrew,McGonagall,8
+Peter Pettigrew,James,25
+Peter Pettigrew,Ginny,21
+Peter Pettigrew,Remus Lupin,1
+Peter Pettigrew,Bill,16
+Cho Chang,Harry,2309
+Cho Chang,Ravenclaw,28
+Cho Chang,Oliver Wood,1
+Cho Chang,Ernie Macmillan,2
+Cho Chang,Hermione,141
+Cho Chang,Fleur Delacour,4
+Cho Chang,Trevor,4
+Cho Chang,Luna Lovegood,1
+Cho Chang,Ginny,42
+Cho Chang,Dudley,2
+Cho Chang,Viktor Krum,2
+Cho Chang,Lee Jordan,2
+Davies,Ravenclaw,3
+Davies,Hooch,1
+Professor Trelawney,Hermione,77
+Professor Trelawney,Parvati,16
+Professor Trelawney,Harry,384
+Montague,Weasley,124
+Montague,Alicia Spinnet,26
+Montague,George,373
+Montague,Hooch,16
+Montague,Harry,5125
+Montague,Dudley,12
+Montague,Katie Bell,180
+Montague,Fred,144
+Montague,Angelina Johnson,12
+Montague,Hermione,1284
+Montague,Ginny,48
+Montague,Blood,1
+Macnair,Buckbeak,11
+Macnair,Harry,138
+Macnair,Hermione,84
+Macnair,Albus Dumbledore,2
+Macnair,Cornelius Fudge,2
+Remus,Scabbers,5
+Remus,Harry,1504
+Remus,Lily,16
+Remus,James,264
+Remus,Lupin,908
+Shack,Lupin,25
+Shack,James,6
+Nagini,Harry,1151
+Nagini,Hermione,96
+Pig,Harry,551
+Pigwidgeon,Ginny,121
+Pigwidgeon,Harry,8214
+Pigwidgeon,Hermione,1308
+Pigwidgeon,Crookshanks,16
+Pigwidgeon,Hedwig,77
+Pigwidgeon,Weasley,188
+Pigwidgeon,Fred,198
+Pigwidgeon,Bill,40
+Pigwidgeon,Charlie,40
+Pigwidgeon,Karkaroff,28
+Pigwidgeon,George,142
+Pigwidgeon,Trevor,16
+Pigwidgeon,Muriel,2
+Ludo Bagman,Percy,287
+Ludo Bagman,Arthur,72
+Ludo Bagman,Weasley,139
+Ludo Bagman,Harry,6420
+Ludo Bagman,Barty,30
+Ludo Bagman,Crouch,230
+Ludo Bagman,Vernon,6
+Ludo Bagman,Hermione,911
+Ludo Bagman,Fred,61
+Ludo Bagman,George,53
+Ludo Bagman,Winky,65
+Ludo Bagman,Karkaroff,195
+Ludo Bagman,Maxime,4
+Ludo Bagman,Bartemius,2
+Ludo Bagman,McGonagall,18
+Ludo Bagman,Moody,39
+Ludo Bagman,Cedric,44
+Ludo Bagman,Rita Skeeter,66
+Ludo Bagman,Padma,36
+Ludo Bagman,Sprout,3
+Ludo Bagman,Fleur Delacour,16
+Ludo Bagman,Rookwood,16
+Ludo Bagman,Bill,26
+Ludo Bagman,Cornelius Fudge,6
+Bertha Jorkins,Percy,20
+Bertha Jorkins,Weasley,6
+Bertha Jorkins,Harry,3139
+Bertha Jorkins,Rita Skeeter,18
+Bertha Jorkins,Barty,3
+Bertha Jorkins,Crouch,69
+Bertha Jorkins,Frank Bryce,2
+Bertha Jorkins,Lord Voldemort,12
+Bertha Jorkins,Winky,69
+Bertha Jorkins,Moody,132
+Bertha Jorkins,Auror,3
+Bertha Jorkins,Cedric,36
+Bertha Jorkins,Minerva,20
+Viktor Krum,Fred,39
+Viktor Krum,George,18
+Viktor Krum,Harry,4447
+Viktor Krum,Hermione,835
+Viktor Krum,Karkaroff,64
+Viktor Krum,Cedric,184
+Viktor Krum,Ollivander,3
+Viktor Krum,Fleur Delacour,10
+Viktor Krum,Granger,2
+Viktor Krum,Percy,10
+Viktor Krum,Weasley,10
+Viktor Krum,Crouch,3
+Viktor Krum,Gabrielle,1
+Viktor Krum,Bill,13
+Viktor Krum,Maxime,1
+Viktor Krum,Ginny,76
+Viktor Krum,Cho Chang,2
+Viktor Krum,Who,1
+Amos,Weasley,173
+Amos,Cedric,35
+Amos,Harry,3182
+Amos,Hermione,296
+Amos,Ginny,8
+Amos,Arthur,6
+Amos,Crouch,240
+Amos,Winky,504
+Amos,Bill,13
+Amos,Rita Skeeter,7
+Cedric,Weasley,1124
+Cedric,Amos,35
+Cedric,Fred,96
+Cedric,George,108
+Cedric,Arthur,18
+Cedric,Harry,484105
+Cedric,Ernie Macmillan,13
+Cedric,Fleur Delacour,525
+Cedric,Hermione,10300
+Cedric,Justin Finch-Fletchley,8
+Cedric,Sprout,17
+Cedric,Viktor Krum,184
+Cedric,Ludo Bagman,44
+Cedric,Rita Skeeter,694
+Cedric,Karkaroff,400
+Cedric,Ollivander,48
+Cedric,Dudley,2323
+Cedric,Maxime,56
+Cedric,Flitwick,56
+Cedric,Moody,1400
+Cedric,Lee Jordan,2
+Cedric,Dean Thomas,1
+Cedric,Draco Malfoy,6
+Cedric,Parvati,108
+Cedric,Padma,72
+Cedric,Roger Davies,32
+Cedric,McGonagall,39
+Cedric,Percy,35
+Cedric,Gabrielle,56
+Cedric,Bill,728
+Cedric,Lord Voldemort,416
+Cedric,Crouch,54
+Cedric,Bertha Jorkins,36
+Cedric,Dobby,24
+Barty,Crouch,207
+Barty,Harry,741
+Barty,Ludo Bagman,30
+Barty,Percy,71
+Barty,Vernon,5
+Barty,Winky,252
+Barty,Weasley,8
+Barty,Karkaroff,84
+Barty,Maxime,4
+Barty,Rita Skeeter,6
+Barty,Bertha Jorkins,3
+Barty,Buckbeak,14
+Crouch,Barty,207
+Crouch,Percy,912
+Crouch,Harry,82780
+Crouch,Ludo Bagman,230
+Crouch,Vernon,16
+Crouch,Arthur,24
+Crouch,Weasley,78
+Crouch,Hermione,6643
+Crouch,Winky,2961
+Crouch,Amos,240
+Crouch,McGonagall,61
+Crouch,Karkaroff,168
+Crouch,Maxime,4
+Crouch,Dobby,410
+Crouch,Peeves,21
+Crouch,Moody,1230
+Crouch,Rita Skeeter,18
+Crouch,Buckbeak,112
+Crouch,Cornelius Fudge,44
+Crouch,Hedwig,24
+Crouch,Petunia,12
+Crouch,Dudley,12
+Crouch,Fred,27
+Crouch,George,54
+Crouch,Viktor Krum,3
+Crouch,Alastor,3
+Crouch,Igor Karkaroff,15
+Crouch,Rookwood,120
+Crouch,Albus Dumbledore,150
+Crouch,Lord Voldemort,80
+Crouch,Auror,15
+Crouch,Bertha Jorkins,69
+Crouch,Frank Bryce,15
+Crouch,Cedric,54
+Crouch,Sprout,3
+Crouch,Minerva,30
+Winky,Harry,70430
+Winky,Dobby,27357
+Winky,Crouch,2961
+Winky,Barty,252
+Winky,Hermione,16817
+Winky,Weasley,146
+Winky,Amos,504
+Winky,Ludo Bagman,65
+Winky,Buckbeak,14
+Winky,Minerva,46
+Winky,McGonagall,92
+Winky,Bertha Jorkins,69
+Who,Weasley,73
+Who,Fred,5
+Who,George,6
+Who,Rita Skeeter,3
+Who,Bill,34
+Who,Harry,76
+Who,Tonks,10
+Who,Cornelius Fudge,1
+Who,Hermione,105
+Who,Olympe,3
+Who,Bob Ogden,3
+Who,Viktor Krum,1
+Who,Muriel,34
+Rita Skeeter,Weasley,182
+Rita Skeeter,Who,3
+Rita Skeeter,Bill,15
+Rita Skeeter,Arthur,7
+Rita Skeeter,Harry,57574
+Rita Skeeter,Albus Dumbledore,54
+Rita Skeeter,Cedric,694
+Rita Skeeter,Ludo Bagman,66
+Rita Skeeter,Karkaroff,42
+Rita Skeeter,Ollivander,63
+Rita Skeeter,Petunia,21
+Rita Skeeter,Hermione,3149
+Rita Skeeter,Draco Malfoy,2
+Rita Skeeter,Alastor,6
+Rita Skeeter,Moody,6
+Rita Skeeter,Barty,6
+Rita Skeeter,Bertha Jorkins,18
+Rita Skeeter,Percy,26
+Rita Skeeter,Crouch,18
+Rita Skeeter,Granger,2
+Rita Skeeter,Amos,7
+Rita Skeeter,George,7
+Rita Skeeter,Ginny,7
+Rita Skeeter,Luna Lovegood,1
+Rita Skeeter,Firenze,1
+Rita Skeeter,Muriel,551
+Mundungus Fletcher,Percy,9
+Mundungus Fletcher,Remus Lupin,1
+Mundungus Fletcher,Arabella Figg,1
+Mundungus Fletcher,Harry,891
+Mundungus Fletcher,Weasley,23
+Mundungus Fletcher,Arthur,7
+Mundungus Fletcher,Petunia,3
+Mundungus Fletcher,Hermione,14
+Mundungus Fletcher,Fred,7
+Mundungus Fletcher,George,10
+Mundungus Fletcher,Bill,4
+Mundungus Fletcher,Kreacher,1017
+Mundungus Fletcher,Lord Voldemort,15
+Moody,George,971
+Moody,Weasley,1681
+Moody,Bill,32
+Moody,Harry,409967
+Moody,McGonagall,813
+Moody,Hermione,13483
+Moody,Parvati,282
+Moody,Fred,697
+Moody,Sprout,104
+Moody,Dean Thomas,28
+Moody,Karkaroff,2198
+Moody,Ludo Bagman,39
+Moody,Madam Rosmerta,13
+Moody,Cedric,1400
+Moody,Lupin,21
+Moody,Maxime,42
+Moody,Binns,2
+Moody,Percy,1
+Moody,Ginny,348
+Moody,Sinistra,6
+Moody,Rita Skeeter,6
+Moody,Alastor,1
+Moody,Albus Dumbledore,90
+Moody,Auror,202
+Moody,Peeves,714
+Moody,Crouch,1230
+Moody,Flitwick,28
+Moody,Dobby,134
+Moody,Granger,19
+Moody,Fleur Delacour,44
+Moody,Bertha Jorkins,132
+Moody,Dedalus Diggle,46
+Moody,Kingsley Shacklebolt,167
+Moody,Sturgis Podmore,49
+Moody,Tonks,1172
+Moody,Hedwig,35
+Moody,Emmeline Vance,22
+Moody,Gilderoy Lockhart,2
+Moody,Arthur,251
+Moody,Bellatrix,5
+Moody,Vernon,140
+Moody,Pius Thicknesse,20
+Auror,Harry,323
+Auror,Charlie,10
+Auror,Moody,202
+Auror,Crouch,15
+Auror,Bertha Jorkins,3
+Dennis Creevey,Harry,527
+Dennis Creevey,Hermione,136
+Dennis Creevey,Fred,8
+Dennis Creevey,George,4
+Dennis Creevey,Lee Jordan,3
+Dennis Creevey,Parvati,1
+Dennis Creevey,Luna Lovegood,3
+Dennis Creevey,Katie Bell,2
+Dennis Creevey,Alicia Spinnet,1
+Dennis Creevey,Angelina Johnson,1
+Dennis Creevey,Ernie Macmillan,2
+Dennis Creevey,Justin Finch-Fletchley,1
+Dennis Creevey,Hannah Abbott,1
+Dennis Creevey,Ravenclaw,1
+Dennis Creevey,Anthony Goldstein,2
+Dennis Creevey,Ginny,8
+Dennis Creevey,Michael,3
+Karkaroff,Harry,47677
+Karkaroff,Maxime,254
+Karkaroff,Great,16
+Karkaroff,Ludo Bagman,195
+Karkaroff,Percy,236
+Karkaroff,Hermione,3038
+Karkaroff,Moody,2198
+Karkaroff,Viktor Krum,64
+Karkaroff,McGonagall,190
+Karkaroff,Crouch,168
+Karkaroff,Barty,84
+Karkaroff,Cedric,400
+Karkaroff,Rita Skeeter,42
+Karkaroff,Pigwidgeon,28
+Karkaroff,Weasley,33
+Karkaroff,Fred,77
+Karkaroff,George,88
+Karkaroff,Padma,132
+Karkaroff,Sprout,11
+Karkaroff,Parvati,14
+Karkaroff,Fleur Delacour,28
+Karkaroff,Dobby,119
+Karkaroff,Fang,110
+Karkaroff,Igor,11
+Maxime,Karkaroff,253
+Maxime,Great,1
+Maxime,Ludo Bagman,4
+Maxime,Percy,1
+Maxime,Harry,4098
+Maxime,Hermione,45
+Maxime,McGonagall,6
+Maxime,Crouch,4
+Maxime,Barty,4
+Maxime,Charlie,44
+Maxime,Cedric,56
+Maxime,Moody,42
+Maxime,Olympe,2
+Maxime,Fleur Delacour,4
+Maxime,Viktor Krum,1
+Bartemius,Ludo Bagman,1
+Bartemius,Harry,62
+Fleur Delacour,Harry,6882
+Fleur Delacour,Cedric,525
+Fleur Delacour,Ollivander,6
+Fleur Delacour,Viktor Krum,10
+Fleur Delacour,Ginny,10
+Fleur Delacour,Roger Davies,101
+Fleur Delacour,Parvati,90
+Fleur Delacour,Padma,60
+Fleur Delacour,McGonagall,10
+Fleur Delacour,Karkaroff,28
+Fleur Delacour,Hermione,328
+Fleur Delacour,Cho Chang,4
+Fleur Delacour,Percy,20
+Fleur Delacour,Ludo Bagman,16
+Fleur Delacour,Bill,26
+Fleur Delacour,Moody,44
+Fleur Delacour,Maxime,4
+Fleur Delacour,George,15
+Fleur Delacour,Gabrielle,1
+Trevor,Harry,2313
+Trevor,Neville Longbottom,8
+Trevor,Ginny,96
+Trevor,Luna Lovegood,16
+Trevor,Cho Chang,4
+Trevor,Ravenclaw,4
+Trevor,Pigwidgeon,16
+Trevor,Romilda Vane,2
+Padma,Parvati,1522
+Padma,Harry,13539
+Padma,Fleur Delacour,60
+Padma,Roger Davies,120
+Padma,Cedric,72
+Padma,McGonagall,48
+Padma,Hermione,1692
+Padma,Fred,168
+Padma,George,96
+Padma,Karkaroff,132
+Padma,Ludo Bagman,36
+Padma,Percy,120
+Padma,Sprout,12
+Padma,Flitwick,2
+Roger Davies,Harry,6642
+Roger Davies,Fleur Delacour,101
+Roger Davies,Parvati,180
+Roger Davies,Padma,120
+Roger Davies,Cedric,32
+Roger Davies,McGonagall,10
+Roger Davies,Hermione,235
+Sinistra,Harry,605
+Sinistra,Moody,6
+Sinistra,Parvati,18
+Sinistra,Ginny,2
+Sinistra,McGonagall,2
+Sinistra,Grubbly-Plank,2
+Sinistra,Angelina Johnson,2
+Sinistra,Hermione,53
+Grubbly-Plank,Harry,4895
+Grubbly-Plank,Draco Malfoy,20
+Grubbly-Plank,Hermione,384
+Grubbly-Plank,Pansy Parkinson,4
+Grubbly-Plank,McGonagall,40
+Grubbly-Plank,Angelina Johnson,4
+Grubbly-Plank,Sinistra,2
+Grubbly-Plank,Binns,10
+Grubbly-Plank,Hedwig,152
+Grubbly-Plank,Aragog,5
+Alastor,Moody,1
+Alastor,Albus Dumbledore,2
+Alastor,Rita Skeeter,5
+Alastor,Crouch,3
+Alastor,Weasley,59
+Alastor,Harry,103
+Gabrielle,Harry,1681
+Gabrielle,Cedric,56
+Gabrielle,Viktor Krum,1
+Gabrielle,Bill,67
+Gabrielle,Weasley,104
+Gabrielle,Fleur Delacour,1
+Gabrielle,Ginny,65
+Gabrielle,Hermione,274
+Gabrielle,Charlie,8
+Gabrielle,Fenrir Greyback,1
+Love,Pansy Parkinson,1
+Love,Harry,94
+Love,Albus Dumbledore,1
+Igor,Karkaroff,10
+Igor Karkaroff,Harry,112
+Igor Karkaroff,Crouch,15
+Igor Karkaroff,Weasley,8
+Rookwood,Crouch,119
+Rookwood,Ludo Bagman,16
+Frank Bryce,Crouch,14
+Frank Bryce,Bertha Jorkins,2
+Remus Lupin,Mundungus Fletcher,1
+Remus Lupin,Harry,621
+Remus Lupin,James,102
+Remus Lupin,Nymphadora Tonks,2
+Remus Lupin,Kingsley Shacklebolt,3
+Remus Lupin,Weasley,22
+Remus Lupin,Bill,20
+Remus Lupin,Fred,19
+Remus Lupin,George,18
+Remus Lupin,Ginny,29
+Remus Lupin,Peter Pettigrew,1
+Remus Lupin,Arabella Figg,2
+Remus Lupin,Madam Malkin,2
+Remus Lupin,Lucius,18
+Remus Lupin,Narcissa,4
+Remus Lupin,Bellatrix,6
+Arabella Figg,Mundungus Fletcher,1
+Arabella Figg,Harry,95
+Arabella Figg,Bill,4
+Arabella Figg,Kingsley Shacklebolt,1
+Arabella Figg,Remus Lupin,2
+Arabella Figg,Weasley,1
+Arabella Figg,Fred,1
+Arabella Figg,George,1
+Arabella Figg,Madam Malkin,1
+Olympe,Maxime,1
+Olympe,Who,3
+Nymphadora,Tonks,215
+Tonks,Nymphadora,215
+Tonks,Harry,32328
+Tonks,Hedwig,676
+Tonks,Moody,1172
+Tonks,Ginny,340
+Tonks,Weasley,660
+Tonks,Bill,340
+Tonks,Molly,110
+Tonks,Hermione,80
+Tonks,Dudley,40
+Tonks,Cornelius Fudge,10
+Tonks,Who,10
+Tonks,Arthur,30
+Tonks,Kingsley Shacklebolt,10
+Kingsley Shacklebolt,Dedalus Diggle,5
+Kingsley Shacklebolt,Elphias Doge,4
+Kingsley Shacklebolt,Harry,2276
+Kingsley Shacklebolt,Moody,167
+Kingsley Shacklebolt,Sturgis Podmore,20
+Kingsley Shacklebolt,Emmeline Vance,5
+Kingsley Shacklebolt,Weasley,56
+Kingsley Shacklebolt,Tonks,10
+Kingsley Shacklebolt,Bill,6
+Kingsley Shacklebolt,Cornelius Fudge,2
+Kingsley Shacklebolt,McGonagall,7
+Kingsley Shacklebolt,Percy,5
+Kingsley Shacklebolt,Nymphadora Tonks,2
+Kingsley Shacklebolt,Remus Lupin,3
+Kingsley Shacklebolt,Fred,1
+Kingsley Shacklebolt,George,1
+Kingsley Shacklebolt,Arabella Figg,1
+Kingsley Shacklebolt,Madam Malkin,1
+Kingsley Shacklebolt,Uncle Vernon,1
+Elphias Doge,Dedalus Diggle,1
+Elphias Doge,Kingsley Shacklebolt,4
+Elphias Doge,Albus Dumbledore,15
+Elphias Doge,Harry,88
+Sturgis Podmore,Emmeline Vance,3
+Sturgis Podmore,Harry,527
+Sturgis Podmore,Moody,49
+Sturgis Podmore,Kingsley Shacklebolt,20
+Sturgis Podmore,Weasley,6
+Sturgis Podmore,Hermione,76
+Emmeline Vance,Sturgis Podmore,3
+Emmeline Vance,Harry,96
+Emmeline Vance,Kingsley Shacklebolt,5
+Emmeline Vance,Moody,22
+Emmeline Vance,Sirius Black,1
+Kreacher,Weasley,848
+Kreacher,Ginny,66
+Kreacher,Hermione,25250
+Kreacher,Harry,261342
+Kreacher,Buckbeak,31
+Kreacher,Fred,2604
+Kreacher,George,1674
+Kreacher,Phineas Nigellus,31
+Kreacher,Lucius,4
+Kreacher,Narcissa,80
+Kreacher,Sirius Black,40
+Kreacher,Dobby,2092
+Kreacher,Vernon,264
+Kreacher,Bellatrix,24
+Kreacher,Petunia,72
+Kreacher,Peeves,17
+Kreacher,Draco Malfoy,55
+Kreacher,Mundungus Fletcher,1017
+Kreacher,Reg,9
+Kreacher,Yaxley,32
+Phineas Nigellus,Kreacher,30
+Phineas Nigellus,Ginny,24
+Phineas Nigellus,Arthur,28
+Phineas Nigellus,Harry,7203
+Phineas Nigellus,Albus Dumbledore,11
+Phineas Nigellus,Marietta,20
+Andromeda,Ted Tonks,5
+Andromeda,Harry,936
+Andromeda,Rodolphus,12
+Andromeda,Bill,34
+Ted Tonks,Andromeda,5
+Ted Tonks,Harry,577
+Ted Tonks,Weasley,52
+Ted Tonks,Arthur,4
+Ted Tonks,Molly,1
+Rodolphus,Harry,439
+Rodolphus,Andromeda,12
+Rodolphus,Bellatrix,11
+Rodolphus,Nott,1
+Rodolphus,Muriel,2
+Bob,Weasley,16
+Dolores Jane Umbridge,Percy,9
+Dolores Jane Umbridge,Weasley,4
+Luna Lovegood,Ginny,235
+Luna Lovegood,Neville Longbottom,9
+Luna Lovegood,Ravenclaw,10
+Luna Lovegood,Harry,2886
+Luna Lovegood,Trevor,16
+Luna Lovegood,Hedwig,28
+Luna Lovegood,Cho Chang,1
+Luna Lovegood,Ernie Macmillan,9
+Luna Lovegood,Fred,24
+Luna Lovegood,George,12
+Luna Lovegood,Lee Jordan,9
+Luna Lovegood,Parvati,3
+Luna Lovegood,Katie Bell,6
+Luna Lovegood,Alicia Spinnet,3
+Luna Lovegood,Angelina Johnson,3
+Luna Lovegood,Dennis Creevey,3
+Luna Lovegood,Justin Finch-Fletchley,3
+Luna Lovegood,Hannah Abbott,3
+Luna Lovegood,Anthony Goldstein,6
+Luna Lovegood,Michael,11
+Luna Lovegood,Hermione,275
+Luna Lovegood,Cornelius Fudge,3
+Luna Lovegood,Rita Skeeter,1
+Anthony Goldstein,Hermione,219
+Anthony Goldstein,Ravenclaw,3
+Anthony Goldstein,Harry,789
+Anthony Goldstein,Fred,25
+Anthony Goldstein,George,16
+Anthony Goldstein,Lee Jordan,6
+Anthony Goldstein,Parvati,2
+Anthony Goldstein,Luna Lovegood,6
+Anthony Goldstein,Katie Bell,4
+Anthony Goldstein,Alicia Spinnet,2
+Anthony Goldstein,Angelina Johnson,2
+Anthony Goldstein,Dennis Creevey,2
+Anthony Goldstein,Ernie Macmillan,6
+Anthony Goldstein,Justin Finch-Fletchley,3
+Anthony Goldstein,Hannah Abbott,3
+Anthony Goldstein,Ginny,16
+Anthony Goldstein,Michael,8
+Anthony Goldstein,Gregory Goyle,1
+Anthony Goldstein,Terry,1
+Rose,Harry,69
+Rose,McGonagall,2
+Fat,Harry,234
+Fat,Draco Malfoy,1
+Fat,Hermione,22
+Michael,Harry,944
+Michael,Fred,24
+Michael,George,12
+Michael,Lee Jordan,9
+Michael,Parvati,3
+Michael,Luna Lovegood,11
+Michael,Katie Bell,6
+Michael,Alicia Spinnet,3
+Michael,Angelina Johnson,3
+Michael,Dennis Creevey,3
+Michael,Ernie Macmillan,9
+Michael,Justin Finch-Fletchley,3
+Michael,Hannah Abbott,3
+Michael,Ravenclaw,11
+Michael,Anthony Goldstein,8
+Michael,Ginny,162
+Michael,Hermione,390
+Michael,Terry,4
+Zacharias,Harry,3164
+Zacharias,Hermione,910
+Zacharias,George,56
+Zacharias,Lee Jordan,3
+Zacharias,Ginny,228
+Zacharias,Weasley,3
+Marietta,Harry,16307
+Marietta,McGonagall,420
+Marietta,Phineas Nigellus,20
+Dawlish,Fawkes,5
+Dawlish,Harry,389
+Dawlish,Yaxley,51
+Run,George,13
+Marietta Edgecombe,Harry,242
+Minerva McGonagall,Albus Dumbledore,3
+Minerva McGonagall,Harry,124
+Grawp,Harry,33250
+Grawp,Vernon,21
+Grawp,Firenze,231
+Grawp,Hermione,16398
+Grawp,Aragog,13
+Grawp,Percy,6
+Grawp,Dudley,33
+Magorian,Firenze,98
+Magorian,Bane,16
+Magorian,Harry,128
+Magorian,Hermione,180
+Bellatrix,Harry,54568
+Bellatrix,Nott,9
+Bellatrix,Rodolphus,11
+Bellatrix,Hermione,9755
+Bellatrix,Moody,5
+Bellatrix,Ginny,13
+Bellatrix,Fawkes,10
+Bellatrix,Narcissa,5614
+Bellatrix,Albus Dumbledore,16
+Bellatrix,Lucius,716
+Bellatrix,Severus Snape,16
+Bellatrix,Vernon,22
+Bellatrix,Kreacher,24
+Bellatrix,Remus Lupin,6
+Bellatrix,Muriel,4
+Bellatrix,Griphook,1143
+Bellatrix,Dobby,281
+Bellatrix,Ollivander,14
+Bellatrix,Draco Malfoy,7
+Bellatrix,Bill,35
+Bellatrix,Travers,343
+Nott,Harry,337
+Nott,Bellatrix,9
+Nott,Rodolphus,1
+Nott,Hermione,88
+Antonin Dolohov,Harry,163
+Narcissa,Kreacher,79
+Narcissa,Bellatrix,5614
+Narcissa,Yaxley,33
+Narcissa,Lucius,769
+Narcissa,Harry,4560
+Narcissa,Hermione,129
+Narcissa,Remus Lupin,4
+Narcissa,Scabior,160
+Narcissa,Ollivander,40
+Narcissa,Granger,20
+Nymphadora Tonks,Remus Lupin,2
+Nymphadora Tonks,Kingsley Shacklebolt,1
+Nymphadora Tonks,Harry,68
+Yaxley,Narcissa,32
+Yaxley,Lucius,161
+Yaxley,Dawlish,51
+Yaxley,Harry,19771
+Yaxley,Hermione,3510
+Yaxley,Cattermole,14
+Yaxley,Weasley,32
+Yaxley,Runcorn,144
+Yaxley,Kreacher,32
+Yaxley,Flitwick,1
+Yaxley,Aragog,6
+Rufus Scrimgeour,Albus Dumbledore,3
+Rufus Scrimgeour,Weasley,58
+Rufus Scrimgeour,Arthur,14
+Rufus Scrimgeour,Harry,595
+Rufus Scrimgeour,Hermione,17
+Rufus Scrimgeour,Percy,4
+Horace Slughorn,Harry,199
+Horace Slughorn,Aragog,18
+Romilda Vane,Harry,1988
+Romilda Vane,Trevor,2
+Romilda Vane,Hermione,399
+Romilda Vane,Ginny,97
+Romilda Vane,Crookshanks,2
+Romilda Vane,Fred,6
+Romilda Vane,George,6
+Romilda Vane,Dean Thomas,2
+Blaise Zabini,Harry,129
+Bob Ogden,Who,2
+Bob Ogden,Harry,240
+Morfin,Harry,16309
+Morfin,Merope,1560
+Morfin,Marvolo,1043
+Morfin,Hokey,36
+Morfin,Hepzibah,80
+Merope,Morfin,1559
+Merope,Harry,4235
+Merope,Marvolo,155
+Merope,Tom Riddle,230
+Merope,Lord Voldemort,10
+Marvolo,Harry,4172
+Marvolo,Morfin,1043
+Marvolo,Merope,155
+Marvolo,Cole,15
+Marvolo,Tom Riddle,4
+Cormac McLaggen,Harry,1269
+Cormac McLaggen,Hermione,207
+Cormac McLaggen,Parvati,10
+Demelza Robins,Harry,699
+Demelza Robins,Katie Bell,1
+Demelza Robins,Ginny,79
+Professor Snape,Harry,46
+Cole,Harry,704
+Cole,Marvolo,15
+Cole,Tom Riddle,40
+Muriel,Harry,33339
+Muriel,Pigwidgeon,2
+Muriel,Bill,125
+Muriel,Weasley,106
+Muriel,Molly,1
+Muriel,Ginny,25
+Muriel,Bellatrix,4
+Muriel,Rodolphus,2
+Muriel,George,958
+Muriel,Fred,955
+Muriel,Hermione,1990
+Muriel,Who,34
+Muriel,Aberforth,170
+Muriel,Rita Skeeter,551
+Muriel,Dudley,5
+Muriel,Griphook,46
+Muriel,Ollivander,88
+Sybill,Harry,191
+Fenrir Greyback,Harry,633
+Fenrir Greyback,Hermione,74
+Fenrir Greyback,Bill,8
+Fenrir Greyback,Ginny,4
+Fenrir Greyback,Gabrielle,1
+Hokey,Lord Voldemort,71
+Hokey,Hepzibah,1620
+Hokey,Harry,2880
+Hokey,Morfin,36
+Hokey,Tom Riddle,45
+Hepzibah,Hokey,1619
+Hepzibah,Harry,11200
+Hepzibah,Tom Riddle,100
+Hepzibah,Morfin,80
+Vector,Hermione,33
+Vector,Harry,116
+Vector,Ravenclaw,2
+Vector,Moaning Myrtle,4
+Amycus,Harry,2059
+Amycus,Ginny,4
+Amycus,Alecto,253
+Amycus,Flitwick,91
+Alecto,Harry,711
+Alecto,Amycus,253
+Grindelwald,Harry,287
+Uncle Vernon,Harry,1065
+Uncle Vernon,Petunia,65
+Uncle Vernon,Dudley,231
+Uncle Vernon,Kingsley Shacklebolt,1
+Pius Thicknesse,Harry,99
+Pius Thicknesse,Moody,20
+Mad-Eye,Fred,27
+Mad-Eye,Weasley,101
+Mad-Eye,Bill,299
+Mad-Eye,Ginny,33
+Mad-Eye,Harry,2807
+Mad-Eye,Hermione,205
+Mad-Eye,Ollivander,1
+Beedle,Hermione,232
+Beedle,Harry,178
+Beedle,Weasley,10
+Xenophilius,Harry,51092
+Xenophilius,Weasley,9
+Xenophilius,Hermione,32177
+Xenophilius,Bill,170
+Xenophilius,Ginny,34
+Xenophilius,Ignotus,164
+Aberforth,Muriel,169
+Aberforth,Harry,172
+Aberforth,Hermione,44
+Phineas Nigellus Black,Harry,191
+Reg,Harry,248
+Reg,Kreacher,9
+Reg,Cattermole,1
+Mafalda Hopkirk,Hermione,137
+Mafalda Hopkirk,Harry,83
+Cattermole,Yaxley,14
+Cattermole,Harry,83
+Cattermole,Hermione,69
+Runcorn,Harry,4575
+Runcorn,Weasley,54
+Runcorn,Hermione,612
+Runcorn,Yaxley,144
+Albert,Harry,459
+Albert,Hermione,240
+Dirk Cresswell,Weasley,11
+Dirk Cresswell,Harry,294
+Dirk Cresswell,Gornuk,6
+Dirk Cresswell,Bathilda Bagshot,2
+Gregorovitch,Harry,486
+Gregorovitch,Hermione,46
+Gornuk,Griphook,143
+Gornuk,Dirk Cresswell,6
+Gornuk,Bathilda Bagshot,3
+Gellert Grindelwald,Bathilda Bagshot,13
+Gellert Grindelwald,Albus Dumbledore,56
+Gellert Grindelwald,Hermione,91
+Ignotus,Xenophilius,164
+Ignotus,Hermione,93
+Ignotus,Antioch,2
+Antioch,Ignotus,1
+Scabior,Harry,12863
+Scabior,Stan Shunpike,16
+Scabior,Dudley,16
+Scabior,Hermione,464
+Scabior,Griphook,128
+Scabior,Granger,32
+Scabior,Narcissa,160
+Travers,Harry,8190
+Travers,Hermione,5851
+Travers,Bellatrix,343
+Travers,Griphook,490
+Travers,Bogrod,63
+Bogrod,Harry,7371
+Bogrod,Hermione,3419
+Bogrod,Griphook,2520
+Bogrod,Travers,63
+Filius,Harry,61
+Helena Ravenclaw,Harry,383
+Helena Ravenclaw,Tom Riddle,6
